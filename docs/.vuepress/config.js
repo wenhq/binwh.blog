@@ -11,6 +11,11 @@ module.exports = {
     lineNumbers: false // 代码块显示行号
   },
 
+  locales: {
+      '/': {
+        lang: 'zh-CN',
+      }
+    },
   // 插件
   plugins: [
     ["ribbon",
@@ -63,5 +68,15 @@ module.exports = {
     lastUpdated: 'Last Updated',
     // 项目开始时间
     startYear: '2019',
+    // 更新时间中文
+    lastUpdated: '上次更新',
+    // 你的 Git 项目地址，添加后会在导航栏的最后追加
+    repo: 'wenhq/binwh.blog',
+    // 启用编辑
+    editLinks: true,
+    // 编辑按钮的 Text
+    editLinkText: '在 GitHub 上编辑此页',
+    // 编辑文档的所在目录
+    docsDir: 'docs',
   }
 };
