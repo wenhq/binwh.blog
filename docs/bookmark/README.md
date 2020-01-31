@@ -1,14 +1,15 @@
 ---
 title: 书签
 sidebar: auto
-author: null
+isShowComments: false
 ---
 
+## 网站
 
+### 工具的网站
+- [NiceTool](http://www.nicetool.net/) 网站像是一个杂货铺，什么都有。。。它提供了各种在线实用小工具，翻翻看看，总有一种你会用得到的！
 
-## 常看的网站
-
-## 有趣的网站
+### 有趣的网站
 
 ## APP
 - [一个木函[Android]](https://www.appinn.com/one-woodenletter/) 是一个「为了让我们卸载掉许多在手机上不怎么常用却必须要或总是要安装的 APP 而诞生的一款APP」。内置了超过 50 款工具，总有你能用到的。

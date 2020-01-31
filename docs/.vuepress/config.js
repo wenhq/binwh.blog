@@ -51,14 +51,14 @@ module.exports = {
     logo:"/images/bin1.gif",
     nav:[ // 导航栏配置
       {text: 'BookMark', link: '/bookmark/', icon: 'reco-category'},
-      {text: 'Message', link:'/message/',icon:'reco-message'},
+      //{text: 'Message', link:'/message/',icon:'reco-message'},
+      {text: 'About', link: '/about/', icon:'reco-account'},
       { text: 'Contact',icon:'reco-friend',
         items: [
           {text:'简书',link: 'https://www.jianshu.com/u/20e512b19b35', icon:'reco-jianshu'},
           {text:'GitHub',link: 'https://github.com/wenhq', icon:'reco-github'},
         ]
       },
-      {text: 'About', link: '/about/', icon:'reco-account'},
     ],
     sidebar: 'auto', // 侧边栏配置
     sidebarDepth: 2, // 侧边栏显示2级
@@ -71,7 +71,7 @@ module.exports = {
     // 更新时间中文
     lastUpdated: '上次更新',
     // 你的 Git 项目地址，添加后会在导航栏的最后追加
-    repo: 'wenhq/binwh.blog',
+    // repo: 'wenhq/binwh.blog',
     // 启用编辑
     editLinks: true,
     // 编辑按钮的 Text
