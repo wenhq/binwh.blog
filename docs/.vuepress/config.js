@@ -40,7 +40,17 @@ module.exports = {
           pageSize: 10, // pagination size
        }
      }
-   ]
+   ],
+    ['@vuepress-reco/vuepress-plugin-rss',
+    {
+      site_url: 'https://www.binwh.com', // required
+      copyright: '${$themeConfig.author} ${$themeConfig.startYear}', // optional
+      // filter some post
+      //filter: (frontmatter) => { return [true|false] },
+      // How much articles
+      count: 20
+      }
+    ]
   ],
 
   theme: 'reco',
@@ -53,19 +63,20 @@ module.exports = {
       {text: 'BookMark', link: '/bookmark/', icon: 'reco-category'},
       //{text: 'Message', link:'/message/',icon:'reco-message'},
       {text: 'About', link: '/about/', icon:'reco-account'},
+      {text: 'RSS', link: 'https://www.binwh.com/rss.xml', icon:'reco-rss'},
       { text: 'Contact',icon:'reco-friend',
         items: [
           {text:'简书',link: 'https://www.jianshu.com/u/20e512b19b35', icon:'reco-jianshu'},
           {text:'GitHub',link: 'https://github.com/wenhq', icon:'reco-github'},
         ]
-      },
+      }
     ],
     sidebar: 'auto', // 侧边栏配置
     sidebarDepth: 2, // 侧边栏显示2级
     // 作者
     author: 'Wenh Q',
-    // 最后更新时间
-    lastUpdated: 'Last Updated',
+    // 头像
+    authorAvatar: '/images/Wo03.jpg',
     // 项目开始时间
     startYear: '2019',
     // 更新时间中文

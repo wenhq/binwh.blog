@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "vuepress": "^1.2.0",
+    "@vuepress-reco/vuepress-plugin-rss": "^1.0.1",
     "vuepress-plugin-comment": "^0.7.2"
   },
   "devDependencies": {
