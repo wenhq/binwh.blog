@@ -13,6 +13,7 @@ isShowComments: true
 - [NeverSSL](http://neverssl.com/) 是一个承诺永远不会使用 SSL 加密传输内容的网站，让你可以在连接公共 Wi-Fi 的时候通过访问 NeverSSL 而跳转到 Wi-Fi 登录界面。
 - [Unsplash](https://unsplash.com/) 使用仅次于 Bing的著名高清大图网站 Unsplash。
 - [Pexels](https://www.pexels.com/) 是一个质量非常高的图片素材库，类似于 unsplash。这些相片和影片免费用于个人和商业用途。
+- [DisplayLag 的数据](https://displaylag.com/display-database/) 查询最好的电视和显示器。
 
 ### 有趣的网站
 - [交互式元素周期表-Ptable](https://ptable.com/) 点击周期表上面的元素，不仅可以查看元素对应的动态的化学性质、同位素和化合物，还可以查看原子轨道的排布，电子的填充等数据。
@@ -22,6 +23,18 @@ isShowComments: true
 
 ### 影视资源
 - [奈菲影视](https://www.nfmovies.com/) 网站有少量广告，资源比采集站的资源清晰很多，有些视频资源是网站自己压制的视频。
+- [茶杯狐](https://www.cupfox.com/) 是一个电影和电视剧评价和资源聚合的搜索引擎网站，提供豆瓣插件。
+- [BD影视分享](https://www.bd-film.cc/) 主要提供丰富的影视资源下载。
+- [音范丝影音集](http://www.yinfans.me/) 是一个高清蓝光电影资源的精选网站，主打蓝光电影，磁力链接下载，分享顶级蓝光原盘下载资源，人工精选高分影片。
+- [优质电影网](http://www.youzhidy.com/) 1080P高清电影迅雷下载网。
+
+### 图书论文
+- [iData知识检索](https://www.cn-ki.net/) 免费下载学术文献,免费论文下载。
+- [科技文献-上海研发公共服务平台](http://lib.sstir.cn/) 免费下载论文期刊、在线求助文献、报名参加公益培训、进行专家咨询、使用共享仪器、查找科研机构、享受科技查新优惠、浏览研发资讯……微信上还能免费看电子书和报纸。
+- [“文津”搜索系统](http://find.nlc.cn/) 作为国家数字图书馆的核心系统，向世界范围内的读者用户提供高效、精准、专业的图书馆领域元数据统一式搜索服务。
+- [中国知网](https://cnki.net/) 中国知识基础设施工程（China National Knowledge Infrastructure，CNKI）
+- [维普网](http://cqvip.com/) 中文专业信息服务网站，以及中国最大的综合性文献服务网站。
+- [sci-hub免费论文](https://sci-hub.se/) 世界上第一个向大众提供上千万篇研究论文的“盗版”网站。
 
 ## APP
 ### 工具

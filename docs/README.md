@@ -8,7 +8,7 @@ subDescription: 一名爱技术、爱生活、爱思考的PM
 
 isShowTitleInHome: true
 
-bgImage: '/images/IMG_20190713_124653.JPG'
+bgImage: '/images/IMG_20190713_124653.jpg'
 bgImageStyle: {
   height: '300px'
 }

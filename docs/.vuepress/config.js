@@ -89,5 +89,8 @@ module.exports = {
     editLinkText: '在 GitHub 上编辑此页',
     // 编辑文档的所在目录
     docsDir: 'docs',
+    // 备案
+    record: 'CDN存储服务由又拍云赞助提供',
+    recordLink: 'https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral',
   }
 };
