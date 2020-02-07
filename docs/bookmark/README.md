@@ -11,6 +11,7 @@ isShowComments: true
 - [在线模拟各种系统升级fakeupdate](http://fakeupdate.net/) 网站可以生成一个假的系统升级界面， Windows 98，Windows XP，Windows Vista，win 7,win 8,win10,OSX的升级界面统统都有，win 10 的安装界面，Steam os的安装界面也有，甚至还有前段时间的勒索病毒界面。
 - [nomoregoogle](https://nomoregoogle.com/) 是一个列出了数个隐私友好的 Google 替代品列表，这些产品都是无法跟踪到你。对于日益严重的隐私问题，越来越多的人都表示了担忧，比如这个列表。
 - [NeverSSL](http://neverssl.com/) 是一个承诺永远不会使用 SSL 加密传输内容的网站，让你可以在连接公共 Wi-Fi 的时候通过访问 NeverSSL 而跳转到 Wi-Fi 登录界面。
+- [Ping.Pe](http://ping.pe/) 是一家专业的ping测试网站，可以测试各节点与目标服务器的连接情况，目前主要提供ping测试、TCP端口测试、dig测试三项服务。这家网站与知名的VPS主机商搬瓦工同属一家，因此在专业程度上还是值得信赖的。
 - [Unsplash](https://unsplash.com/) 使用仅次于 Bing的著名高清大图网站 Unsplash。
 - [Pexels](https://www.pexels.com/) 是一个质量非常高的图片素材库，类似于 unsplash。这些相片和影片免费用于个人和商业用途。
 - [DisplayLag 的数据](https://displaylag.com/display-database/) 查询最好的电视和显示器。
@@ -22,6 +23,8 @@ isShowComments: true
 - [全球光污染地图](https://www.lightpollutionmap.info/) 这个网站提供了从2015年以来全世界的光污染图像。可以发现近年来光污染的现象加剧。
 
 ### 影视资源
+- [互联网电影资料库IMDB](https://www.imdb.com/) 一个关于电影演员、电影、电视节目、电视明星和电影制作的在线数据库。
+- [电影数据库分享平台](https://www.themoviedb.org/) 提供高分率的电影海报和电影艺术图片资源，除了是一个电影数据库资源网站外，也是一个电影海报资源分享网站。
 - [奈菲影视](https://www.nfmovies.com/) 网站有少量广告，资源比采集站的资源清晰很多，有些视频资源是网站自己压制的视频。
 - [茶杯狐](https://www.cupfox.com/) 是一个电影和电视剧评价和资源聚合的搜索引擎网站，提供豆瓣插件。
 - [BD影视分享](https://www.bd-film.cc/) 主要提供丰富的影视资源下载。
@@ -55,3 +58,5 @@ isShowComments: true
 
 ## 插件
 - [FeHelper](https://chrome.google.com/webstore/detail/fehelperjson/pkgccpejnmalmdinmhkkfafefagiiiad) Json 格式化、图片转 Base64... FeHelper 全搞定。由于 Google 官方要求的插件「单一用途原则」，所以默认安装之后只有「JSON 美化工具」这一个工具，只需要跳转到插件设置页自行安装需要的插件即可。
+
+- baidu-dl 是一款专门用来获取 百度盘 直接下载链接的 Chrome 扩展.
