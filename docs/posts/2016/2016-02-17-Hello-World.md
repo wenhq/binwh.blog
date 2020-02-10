@@ -9,6 +9,12 @@ tags:
  - blog
 ---
 
+::: warning
+Blog改用jekyll的测试帖，现blog已改用vue-press.
+:::
+
+<!-- more -->
+
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml](/images/2016/config.png)

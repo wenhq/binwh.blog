@@ -8,7 +8,6 @@ isShowComments: true
 
 ### 工具的网站
 - [NiceTool](http://www.nicetool.net/) 网站像是一个杂货铺，什么都有。。。它提供了各种在线实用小工具，翻翻看看，总有一种你会用得到的！
-- [在线模拟各种系统升级fakeupdate](http://fakeupdate.net/) 网站可以生成一个假的系统升级界面， Windows 98，Windows XP，Windows Vista，win 7,win 8,win10,OSX的升级界面统统都有，win 10 的安装界面，Steam os的安装界面也有，甚至还有前段时间的勒索病毒界面。
 - [nomoregoogle](https://nomoregoogle.com/) 是一个列出了数个隐私友好的 Google 替代品列表，这些产品都是无法跟踪到你。对于日益严重的隐私问题，越来越多的人都表示了担忧，比如这个列表。
 - [NeverSSL](http://neverssl.com/) 是一个承诺永远不会使用 SSL 加密传输内容的网站，让你可以在连接公共 Wi-Fi 的时候通过访问 NeverSSL 而跳转到 Wi-Fi 登录界面。
 - [Ping.Pe](http://ping.pe/) 是一家专业的ping测试网站，可以测试各节点与目标服务器的连接情况，目前主要提供ping测试、TCP端口测试、dig测试三项服务。这家网站与知名的VPS主机商搬瓦工同属一家，因此在专业程度上还是值得信赖的。
@@ -16,20 +15,9 @@ isShowComments: true
 - [Pexels](https://www.pexels.com/) 是一个质量非常高的图片素材库，类似于 unsplash。这些相片和影片免费用于个人和商业用途。
 - [DisplayLag 的数据](https://displaylag.com/display-database/) 查询最好的电视和显示器。
 
-### 有趣的网站
-- [交互式元素周期表-Ptable](https://ptable.com/) 点击周期表上面的元素，不仅可以查看元素对应的动态的化学性质、同位素和化合物，还可以查看原子轨道的排布，电子的填充等数据。
-- [avogadr.io](https://avogadr.io/) 是一款在线生成化学分子式样式壁纸的服务，能够自定义分子式、背景色、字体颜色等等，最终生成一张非常酷的壁纸。
-- [福利单词](http://dict.ftqq.com) 一边背单词一边看妹子的网站。网站名叫福利单词，电脑端使用，配合cmd+w关闭新窗口食用。
-- [全球光污染地图](https://www.lightpollutionmap.info/) 这个网站提供了从2015年以来全世界的光污染图像。可以发现近年来光污染的现象加剧。
-
-### 影视资源
-- [互联网电影资料库IMDB](https://www.imdb.com/) 一个关于电影演员、电影、电视节目、电视明星和电影制作的在线数据库。
-- [电影数据库分享平台](https://www.themoviedb.org/) 提供高分率的电影海报和电影艺术图片资源，除了是一个电影数据库资源网站外，也是一个电影海报资源分享网站。
-- [奈菲影视](https://www.nfmovies.com/) 网站有少量广告，资源比采集站的资源清晰很多，有些视频资源是网站自己压制的视频。
-- [茶杯狐](https://www.cupfox.com/) 是一个电影和电视剧评价和资源聚合的搜索引擎网站，提供豆瓣插件。
-- [BD影视分享](https://www.bd-film.cc/) 主要提供丰富的影视资源下载。
-- [音范丝影音集](http://www.yinfans.me/) 是一个高清蓝光电影资源的精选网站，主打蓝光电影，磁力链接下载，分享顶级蓝光原盘下载资源，人工精选高分影片。
-- [优质电影网](http://www.youzhidy.com/) 1080P高清电影迅雷下载网。
+### 技术站
+- [Made With Vue.js](https://madewithvuejs.com/) A collection of projects made with Vue.js – Websites, UI Components, Frameworks, Apps and more!
+- [dwitter.net](https://www.dwitter.net/) 前端炫酷技术展示。
 
 ### 图书论文
 - [iData知识检索](https://www.cn-ki.net/) 免费下载学术文献,免费论文下载。
@@ -38,6 +26,23 @@ isShowComments: true
 - [中国知网](https://cnki.net/) 中国知识基础设施工程（China National Knowledge Infrastructure，CNKI）
 - [维普网](http://cqvip.com/) 中文专业信息服务网站，以及中国最大的综合性文献服务网站。
 - [sci-hub免费论文](https://sci-hub.se/) 世界上第一个向大众提供上千万篇研究论文的“盗版”网站。
+
+### 影音资源
+- [互联网电影资料库IMDB](https://www.imdb.com/) 一个关于电影演员、电影、电视节目、电视明星和电影制作的在线数据库。
+- [电影数据库分享平台](https://www.themoviedb.org/) 提供高分率的电影海报和电影艺术图片资源，除了是一个电影数据库资源网站外，也是一个电影海报资源分享网站。
+- [MusicBrainz](https://musicbrainz.org/) 开放音乐信息库。
+- [奈菲影视](https://www.nfmovies.com/) 网站有少量广告，资源比采集站的资源清晰很多，有些视频资源是网站自己压制的视频。
+- [茶杯狐](https://www.cupfox.com/) 是一个电影和电视剧评价和资源聚合的搜索引擎网站，提供豆瓣插件。
+- [BD影视分享](https://www.bd-film.cc/) 主要提供丰富的影视资源下载。
+- [音范丝影音集](http://www.yinfans.me/) 是一个高清蓝光电影资源的精选网站，主打蓝光电影，磁力链接下载，分享顶级蓝光原盘下载资源，人工精选高分影片。
+- [优质电影网](http://www.youzhidy.com/) 1080P高清电影迅雷下载网。
+
+### 有趣的网站
+- [在线模拟各种系统升级fakeupdate](http://fakeupdate.net/) 网站可以生成一个假的系统升级界面， Windows 98，Windows XP，Windows Vista，win 7,win 8,win10,OSX的升级界面统统都有，win 10 的安装界面，Steam os的安装界面也有，甚至还有前段时间的勒索病毒界面。
+- [交互式元素周期表-Ptable](https://ptable.com/) 点击周期表上面的元素，不仅可以查看元素对应的动态的化学性质、同位素和化合物，还可以查看原子轨道的排布，电子的填充等数据。
+- [avogadr.io](https://avogadr.io/) 是一款在线生成化学分子式样式壁纸的服务，能够自定义分子式、背景色、字体颜色等等，最终生成一张非常酷的壁纸。
+- [福利单词](http://dict.ftqq.com) 一边背单词一边看妹子的网站。网站名叫福利单词，电脑端使用，配合cmd+w关闭新窗口食用。
+- [全球光污染地图](https://www.lightpollutionmap.info/) 这个网站提供了从2015年以来全世界的光污染图像。可以发现近年来光污染的现象加剧。
 
 ## APP
 ### 工具

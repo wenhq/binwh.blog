@@ -1,5 +1,5 @@
 ---
-title: 2020年Blog改用VuePress
+title: 2020年Blog改用VuePress，配置永久链接的方法
 date: 2020-01-12T21:07:00
 categories:
  - tech
@@ -8,8 +8,8 @@ tags:
  - blog
 ---
 
->原先使用jekyll搭建博客，不是很会用。
->后面为了更好的学习vue，因此进行迁移。
+>原先使用jekyll搭建博客，不是很会用。<br>
+>后面为了更好的学习vue，因此进行迁移。<br>
 >后续会陆续迁移以前的md文件，增加新的功能。
 
 <!-- more -->
