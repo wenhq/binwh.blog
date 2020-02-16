@@ -44,6 +44,9 @@ isShowComments: true
 - [福利单词](http://dict.ftqq.com) 一边背单词一边看妹子的网站。网站名叫福利单词，电脑端使用，配合cmd+w关闭新窗口食用。
 - [全球光污染地图](https://www.lightpollutionmap.info/) 这个网站提供了从2015年以来全世界的光污染图像。可以发现近年来光污染的现象加剧。
 
+### 为了孩子
+- [上海微校（上海大规模智慧学习平台）](https://smile.shec.edu.cn/) 上海的远程教学平台
+
 ## APP
 ### 工具
 - [一个木函[Android]](https://www.appinn.com/one-woodenletter/) 是一个「为了让我们卸载掉许多在手机上不怎么常用却必须要或总是要安装的 APP 而诞生的一款APP」。内置了超过 50 款工具，总有你能用到的。
