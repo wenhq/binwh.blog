@@ -2,6 +2,7 @@
 title: 书签
 sidebar: auto
 isShowComments: true
+permalink: /bookmark
 ---
 
 ## 网站

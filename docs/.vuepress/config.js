@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Binary WareHouse',
-  description: '数位仓库',
+  description: '数位仓库blog',
   head: [ // 注入到当前页面的 HTML <head> 中的标签
     ['link', { rel: 'icon', href: '/favicon.ico' }], // 增加一个自定义的 favicon(网页标签的图标)
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
@@ -50,6 +50,12 @@ module.exports = {
       // How much articles
       count: 20
       }
+    ],
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-47366244-1' // UA-00000000-0
+      }
     ]
   ],
 
@@ -89,8 +95,5 @@ module.exports = {
     editLinkText: '在 GitHub 上编辑此页',
     // 编辑文档的所在目录
     docsDir: 'docs',
-    // 备案
-    record: 'CDN存储服务由又拍云赞助提供',
-    recordLink: 'https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral',
   }
 };
