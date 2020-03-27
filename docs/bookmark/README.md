@@ -9,26 +9,39 @@ permalink: /bookmark
 
 ### 工具的网站
 - [NiceTool](http://www.nicetool.net/) 网站像是一个杂货铺，什么都有。。。它提供了各种在线实用小工具，翻翻看看，总有一种你会用得到的！
+- [在线文件转换导航](http://www.alltoall.net/) 是一款支持200多种格式的在线转换工具，并且完全免费。它支持视频格式，音频格式，图片格式，常见文档，表格格式，演示用文档格式，电子书格式，压缩格式；总之，只要你需要转换的任意文件，就可以用这个工具试试。
+- [福昕云编辑](http://edit.foxitcloud.cn/) 是一个在线 PDF 编辑网站，让你不需要下载软件，直接在网站上面就可以完成 PDF 基本编辑操作，非常实用良心。它支持在线 PDF 编辑操作包括：编辑文本，添加文本，图像标注，旋转 PDF，文本高亮，区域高亮，插入文本框，插入箭头、椭圆、长方形，丰富的注释功能，添加图章功能，PDF 签名、密码保护功能；每一个 PDF 编辑操作都是简单实用。
+- [PDF 派](https://www.pdfpai.com/) 是一个实用的综合 PDF 编辑转换导航网站。它支持的功能包括：PDF 转换为 Word ，Excel ，PPT ，图片，Pages ，Keynote ，EPUB ；Word ，Excel ，PPT ，图片转化为 PDF ；它还支持 PDF 加密，合并，添加水印，解锁，拆分，旋转，压缩。
+- [Onlinedoctranslator](https://www.onlinedoctranslator.com/) 是一个功能强大的办公网站，它最主要的功能就是在线文档翻译，对整个文档进行翻译，不仅可以对全英文文档翻译成全中文文档或者其它语言文档，它还支持多达 104 种不同语言文档任意转换。它支持翻译任意文档格式为任意语言，你可以转换 PDF 文档，也可以转换 Word 文档和其它任意文档格式；它还支持对翻译的文档保持排版不变；而且网站无需注册，无需安装，完全免费。
+- [在线 PS](https://ps.gaoding.com/) 是稿定设计联合 Photopea 打造的最强在线 PS 工具，是一个完全免费在线 PS 网站，是一个与 PS 电脑软件相似度非常高的在线 PS 网站，让你无需下载软件，也可以拥有和 PS 电脑软件一样的操作和体验。它是中文界面，让你操作起来非常轻松，并且支持打开 PSD，XCF，SKetch，XD，CAD 文件。
+- [Drawio](https://www.draw.io/) 是一个非常好用的在线流程图和图表制作网站。它提供了不同种类的流程图和图表模板，包括：商务、图表、工程图、流程图、GCP 、布局、地图、网络、软体、表、UML 、维恩；你可以直接新增空白图表，也可以选择任意模板开始编辑。
+- [Arkie 作图](https://arkie.cn) 是一个智能作图网站，你只需要输入一段文案，网站就可以为你智能生成海报。它最主要的特点就是智能作图，你只需要输入文字，网站就会根据文字内容智能作图，并且制作的速度非常快；它也支持强大的模板库功能，你可以选择合适的模板类型、尺寸、色调，然后自己编辑替换模板的文字和图片，同样可以制作出精美的图片海报。
 - [nomoregoogle](https://nomoregoogle.com/) 是一个列出了数个隐私友好的 Google 替代品列表，这些产品都是无法跟踪到你。对于日益严重的隐私问题，越来越多的人都表示了担忧，比如这个列表。
 - [NeverSSL](http://neverssl.com/) 是一个承诺永远不会使用 SSL 加密传输内容的网站，让你可以在连接公共 Wi-Fi 的时候通过访问 NeverSSL 而跳转到 Wi-Fi 登录界面。
+- [临时邮箱](http://24mail.chacuo.net/) 是一款帮助我们解决某些网站需要使用到我们自己的真实邮箱，但是我们又不想暴露我们的邮箱的工具。它不需要注册，并且它的邮箱持续24小时，比十分钟邮箱保持时间更长，可以任意设置邮箱名，随时更换邮箱。
 - [Ping.Pe](http://ping.pe/) 是一家专业的ping测试网站，可以测试各节点与目标服务器的连接情况，目前主要提供ping测试、TCP端口测试、dig测试三项服务。这家网站与知名的VPS主机商搬瓦工同属一家，因此在专业程度上还是值得信赖的。
-- [Unsplash](https://unsplash.com/) 使用仅次于 Bing的著名高清大图网站 Unsplash。
-- [Pexels](https://www.pexels.com/) 是一个质量非常高的图片素材库，类似于 unsplash。这些相片和影片免费用于个人和商业用途。
-- [DisplayLag 的数据](https://displaylag.com/display-database/) 查询最好的电视和显示器。
+- [Product Hunt](https://www.producthunt.com/) 是一个让你发现各种新产品的实用网站，你可以利用这个网站发现很多实用有趣的手机 App，电脑软件，网站，硬件产品，游戏，书籍等等。它提供产品推荐合辑功能，比如：管理会议的最佳工具是什么，什么是最好的番茄钟计时器，什么是最好的团队聊天解决方案，你最喜欢的 Chrome 扩展程序是什么，设计师必备的 Mac 应用程序是什么，什么是头脑风暴的最佳应用程序，什么是 iphone 上最好的视频编辑应用，什么是最好的客户反馈系统。
+- [正版中国](https://getitfree.cn/) 是一个十分专业的正版软件下载网站。它提供永久免费，限时折扣，限时免费三个版块，永久免费版块就是提供各种免费的正版软件，限时折扣和限时免费版块就是提供付费正版软件的限时活动。
 
 ### 技术站
+- [大数据导航](http://hao.199it.com/) 是一个极其全面的大数据导航网站。它提供的大数据工具包括：互联网趋势分析、全球互联网数据、教育数据、网站排名查询工具、移动应用监测工具、网站热点分析工具、语义分析工具、直播数据、游戏数据、数据库、旅游行业工具、地理信息数据、数据可视化工具、文本分析工具、网站性能工具。
 - [Made With Vue.js](https://madewithvuejs.com/) A collection of projects made with Vue.js – Websites, UI Components, Frameworks, Apps and more!
 - [dwitter.net](https://www.dwitter.net/) 前端炫酷技术展示。
 
 ### 图书论文
+- [i-Book](https://book.tstrs.me/) 是一个非常好用的极简电子书搜索网站。它界面简洁清新，采用极简风格，功能非常强大，实际体验非常出色，你用过就知道好用。它提供的电子书格式非常全面，包括：Epub 格式、Mobi 格式、Azw3 格式、Pdf 格式、Txt 格式。
+- [三秋书屋](https://www.d4j.cn/) 是一个不可多得的精品电子书网站。它支持直接免费下载电子书籍，支持下载的电子书籍格式包括：Epub 、Mobi 、Azw3 、Pdf 格式。
 - [iData知识检索](https://www.cn-ki.net/) 免费下载学术文献,免费论文下载。
 - [科技文献-上海研发公共服务平台](http://lib.sstir.cn/) 免费下载论文期刊、在线求助文献、报名参加公益培训、进行专家咨询、使用共享仪器、查找科研机构、享受科技查新优惠、浏览研发资讯……微信上还能免费看电子书和报纸。
 - [“文津”搜索系统](http://find.nlc.cn/) 作为国家数字图书馆的核心系统，向世界范围内的读者用户提供高效、精准、专业的图书馆领域元数据统一式搜索服务。
 - [中国知网](https://cnki.net/) 中国知识基础设施工程（China National Knowledge Infrastructure，CNKI）
 - [维普网](http://cqvip.com/) 中文专业信息服务网站，以及中国最大的综合性文献服务网站。
 - [sci-hub免费论文](https://sci-hub.se/) 世界上第一个向大众提供上千万篇研究论文的“盗版”网站。
+- [EyesAsia(Github)](https://github.com/HaoyunS/EyesAsia) 是一款“地图”字体，内含的形状包括中国一级行政区（省、直辖市、自治区、特别行政区），最大咸水湖（青海湖），四大淡水湖（鄱阳湖、洞庭湖、太湖、洪泽湖），以及日本、朝鲜、韩国等几个东亚国家。
+- [Ecofont](http://www.ecofont.com/) 能拯救地球的环保字体，有效节省20%墨水量。
+- [Ryman Eco](http://rymaneco.co.uk/) 节省33%墨水的「环保字体」，让你在打印时省钱又能爱地球！
 
-### 影音资源
+### 影音图片
 - [互联网电影资料库IMDB](https://www.imdb.com/) 一个关于电影演员、电影、电视节目、电视明星和电影制作的在线数据库。
 - [电影数据库分享平台](https://www.themoviedb.org/) 提供高分率的电影海报和电影艺术图片资源，除了是一个电影数据库资源网站外，也是一个电影海报资源分享网站。
 - [MusicBrainz](https://musicbrainz.org/) 开放音乐信息库。
@@ -37,6 +50,10 @@ permalink: /bookmark
 - [BD影视分享](https://www.bd-film.cc/) 主要提供丰富的影视资源下载。
 - [音范丝影音集](http://www.yinfans.me/) 是一个高清蓝光电影资源的精选网站，主打蓝光电影，磁力链接下载，分享顶级蓝光原盘下载资源，人工精选高分影片。
 - [优质电影网](http://www.youzhidy.com/) 1080P高清电影迅雷下载网。
+- [Documentary Addict](https://documentaryaddict.com/)号称地表最大、内容最丰富的纪录片收集、策划频道，目前共提供26种分类，以及接近五千种各式各样的纪录片资源，这些图像并不是由网站本身托管、储存，而是从网络上整理而来，包括维基百科、YouTube、Vimeo等等，经过筛选分类，加入一些简单介绍后，让使用者更容易检索，找到自己需要的纪录片。
+- [Unsplash](https://unsplash.com/) 使用仅次于 Bing的著名高清大图网站 Unsplash。
+- [Pexels](https://www.pexels.com/) 是一个质量非常高的图片素材库，类似于 unsplash。这些相片和影片免费用于个人和商业用途。
+- [DisplayLag 的数据](https://displaylag.com/display-database/) 查询最好的电视和显示器。
 
 ### 有趣的网站
 - [在线模拟各种系统升级fakeupdate](http://fakeupdate.net/) 网站可以生成一个假的系统升级界面， Windows 98，Windows XP，Windows Vista，win 7,win 8,win10,OSX的升级界面统统都有，win 10 的安装界面，Steam os的安装界面也有，甚至还有前段时间的勒索病毒界面。
@@ -47,11 +64,15 @@ permalink: /bookmark
 
 ### 为了孩子
 - [上海微校（上海大规模智慧学习平台）](https://smile.shec.edu.cn/) 上海的远程教学平台
+- [大学资源网](http://www.dxzy163.com/) 是一个完全免费并且功能非常强大的学习网站，它免费提供了丰富并且全面的学习视频教程，并且视频课程一直在更新，非常良心。它还提供了各种专业技能学习课程，包括：办公软件、程序设计、网页教程、平面设计、三维软件、应用软件、电脑网络、电脑基础、数据库、操作系统、移动开发、IT 认证、分析计算。它还贴心的支持：小学课程、初中课程、高中课程。
+
+### 生活各种
+- [医学微视](http://www.mvyxws.com/) 是一个以视频的方式分享各种医学知识的良心网站，强烈推荐。它是中国医学科学院健康科普研究中心监制的一个网站，并且不提供销售任何产品，它以短视频的形式帮助你了解各种疾病，通俗易懂，让你轻松了解各种医学知识；当我们遇到不懂的医学知识或者健康问题，直接利用这个网站，找到对应的疾病，就可以轻松找到对应的视频。
+- [wikihow](https://zh.wikihow.com) 是一个综合技能搜索网站，不管生活中，工作中，遇到不会的东西，你都可以利用这个网站搜索。它上面还免费提供了很多生活，工作小技巧，并且包含不同的专业，不同的方面；总之，各种不会的技能，先用这个网站搜索。
 
 ## APP
 ### 工具
 - [一个木函[Android]](https://www.appinn.com/one-woodenletter/) 是一个「为了让我们卸载掉许多在手机上不怎么常用却必须要或总是要安装的 APP 而诞生的一款APP」。内置了超过 50 款工具，总有你能用到的。
-
 - [DroidID[Android]](https://www.appinn.com/droidid-for-android-macos/) 是一款能够让你通过 Android 设备的指纹解锁你的 Mac 电脑的应用。
 
 ### 教育
@@ -69,3 +90,6 @@ permalink: /bookmark
 - [FeHelper](https://chrome.google.com/webstore/detail/fehelperjson/pkgccpejnmalmdinmhkkfafefagiiiad) Json 格式化、图片转 Base64... FeHelper 全搞定。由于 Google 官方要求的插件「单一用途原则」，所以默认安装之后只有「JSON 美化工具」这一个工具，只需要跳转到插件设置页自行安装需要的插件即可。
 
 - baidu-dl 是一款专门用来获取 百度盘 直接下载链接的 Chrome 扩展.
+
+## 个人blog
+- [张丹](http://blog.fens.me/about/)的[粉丝日志](http://blog.fens.me/) 博客总结了一些R,Java,Hadoop,Nodejs等IT技术的使用心得，以及从IT转金融的学习路线、各种知识汇总。
