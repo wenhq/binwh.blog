@@ -29,6 +29,7 @@ permalink: /bookmark
 - [Made With Vue.js](https://madewithvuejs.com/) A collection of projects made with Vue.js – Websites, UI Components, Frameworks, Apps and more!
 - [dwitter.net](https://www.dwitter.net/) 前端炫酷技术展示。
 - [HTML5资源教程](https://www.html5tricks.com/) HTML5/CSS3教程和应用。
+- 可视化的[git练习网站](https://learngitbranching.js.org/).
 
 ### 图书论文
 - [i-Book](https://book.tstrs.me/) 是一个非常好用的极简电子书搜索网站。它界面简洁清新，采用极简风格，功能非常强大，实际体验非常出色，你用过就知道好用。它提供的电子书格式非常全面，包括：Epub 格式、Mobi 格式、Azw3 格式、Pdf 格式、Txt 格式。
@@ -43,11 +44,14 @@ permalink: /bookmark
 - [医学电子书在线阅读](https://yixueshu.gitee.io/) 医学电子书以及其他读物在线阅读网站。
 - [全历史](https://www.allhistory.com/) 全方位了解历史的网站
 - [iData知识检索](https://www.cn-ki.net/) 免费下载学术文献,免费论文下载。
+- [中国大百科全书数据库](http://h.bkzx.cn/) 浙江图书馆拥有《中国大百科全书》的在线版本访问权限，并且可通过支付宝免费注册浙江图书馆。
+- [国家图书馆免费开放175个数据库](http://dportal.nlc.cn:8332/zylb/zylb.htm) 北京以外地区可通过部分高校图书馆免费申请。
 - [科技文献-上海研发公共服务平台](http://lib.sstir.cn/) 免费下载论文期刊、在线求助文献、报名参加公益培训、进行专家咨询、使用共享仪器、查找科研机构、享受科技查新优惠、浏览研发资讯……微信上还能免费看电子书和报纸。
 - [“文津”搜索系统](http://find.nlc.cn/) 作为国家数字图书馆的核心系统，向世界范围内的读者用户提供高效、精准、专业的图书馆领域元数据统一式搜索服务。
 - [中国知网](https://cnki.net/) 中国知识基础设施工程（China National Knowledge Infrastructure，CNKI）
 - [维普网](http://cqvip.com/) 中文专业信息服务网站，以及中国最大的综合性文献服务网站。
 - [sci-hub免费论文](https://sci-hub.se/) 世界上第一个向大众提供上千万篇研究论文的“盗版”网站。
+- [100font](https://www.100font.com/) 是一个免费可商用字体收集网站，目前上面列出了 45 款可以商用的免费字体
 - [EyesAsia(Github)](https://github.com/HaoyunS/EyesAsia) 是一款“地图”字体，内含的形状包括中国一级行政区（省、直辖市、自治区、特别行政区），最大咸水湖（青海湖），四大淡水湖（鄱阳湖、洞庭湖、太湖、洪泽湖），以及日本、朝鲜、韩国等几个东亚国家。
 - [Ecofont](http://www.ecofont.com/) 能拯救地球的环保字体，有效节省20%墨水量。
 - [Ryman Eco](http://rymaneco.co.uk/) 节省33%墨水的「环保字体」，让你在打印时省钱又能爱地球！
@@ -65,23 +69,29 @@ permalink: /bookmark
 - [音乐狂](http://music.junyuewl.com/)，随时听你想听的
 - [Unsplash](https://unsplash.com/) 使用仅次于 Bing的著名高清大图网站 Unsplash。
 - [Pexels](https://www.pexels.com/) 是一个质量非常高的图片素材库，类似于 unsplash。这些相片和影片免费用于个人和商业用途。
+- [Coverr](https://coverr.co/) 是一个免费可商用的航拍视频素材网站，和其它几个无版权限制的服务一样，你可以随意使用这里面的视频素材，包括商业性质使用。
+- [Generated Photos](https://generated.photos/)，训练 AI 生成的虚拟人脸面孔，这些人脸面孔没有肖像权，演示文稿，项目，模型或任何地方都可以，只需要遵守约定：给 Generated Photos 一个链接即可。
 - [美国航天局爱好者素材库](https://images.nasa.gov/)
 - [remove.bg](https://www.remove.bg/) 只需要上传一张带有人像的照片，它就会帮你自动扣掉背景，全自动、5秒完成，免费。
+- [Music Maker](https://musicmaker.site/) 由专业的数字音乐制作人推出的免费、可商用音乐配乐素材库，提供了 7 类共 21 首适合于不同场景的配乐。
 - [DisplayLag 的数据](https://displaylag.com/display-database/) 查询最好的电视和显示器。
 
 ### 有趣的网站
 - [在线模拟各种系统升级fakeupdate](http://fakeupdate.net/) 网站可以生成一个假的系统升级界面， Windows 98，Windows XP，Windows Vista，win 7,win 8,win10,OSX的升级界面统统都有，win 10 的安装界面，Steam os的安装界面也有，甚至还有前段时间的勒索病毒界面。
 - [交互式元素周期表-Ptable](https://ptable.com/) 点击周期表上面的元素，不仅可以查看元素对应的动态的化学性质、同位素和化合物，还可以查看原子轨道的排布，电子的填充等数据。
 - [avogadr.io](https://avogadr.io/) 是一款在线生成化学分子式样式壁纸的服务，能够自定义分子式、背景色、字体颜色等等，最终生成一张非常酷的壁纸。
+- 高清物理原子3D模型[ProfilmOnline](https://www.profilmonline.com/) 可以在线浏览高清物理原子3D模型，抛开专业性不说，单单做为一种欣赏的艺术品，也值得我们一看！
 - [福利单词](http://dict.ftqq.com) 一边背单词一边看妹子的网站。网站名叫福利单词，电脑端使用，配合cmd+w关闭新窗口食用。
 - [全球光污染地图](https://www.lightpollutionmap.info/) 这个网站提供了从2015年以来全世界的光污染图像。可以发现近年来光污染的现象加剧。
-- 高清物理原子3D模型[ProfilmOnline](https://www.profilmonline.com/) 可以在线浏览高清物理原子3D模型，抛开专业性不说，单单做为一种欣赏的艺术品，也值得我们一看！
 - [用浏览器玩经典中文 DOS 游戏(Github)](https://github.com/rwv/chinese-dos-games) 利用 em-dosbox 将一些经典的中文 DOS 游戏封装成 WebAssembly 应用，然后可以直接在浏览器上运行。
-- [FamiCN.com网站](http://www.famicn.com/) 可以在线游玩网页版中文FC游戏。是配合知乎专栏 古董电脑室 建设的中文游戏模拟器网站，主要收集两岸三地非任天堂渠道发行的NES游戏。[Github地址](https://github.com/pengan1987/famicn)
+- [FamiCN.com网站](http://www.famicn.com/) 可以在线游玩网页版中文FC游戏。是配合知乎专栏 古董电脑室 建设的中文游戏模拟器网站，主要收集两岸三地非任天堂渠道发行的NES游戏。[Github](https://github.com/pengan1987/famicn)
 - [有人把 Windows 95 打包成软件了(Github)](https://github.com/felixrieseberg/windows95) 对于那些曾经的 Windows 95 用户，去怀个旧吧，不到 130MB 下载回来直接运行就行。
 - [brick4](http://brick4.com/) 是一个收集了市面上各种「乐高式积木」产品信息的检索小工具，能够通过关键词、外形、套组编号、型号等内容进行检索，得到各品牌的产品信息以及购买地址。
 - 股票走势跳远小游戏-[Stock Jump](http://stockjump.sos.gd/) 这个股票跳远将会用股票或者汇率以及其它经济上的走势图来让玩家进行滑雪跳远，内含沪深股指，可以说够全了。另外还可以分享地址给好友共同跳远。
 - [数织](https://cn.puzzle-nonograms.com/) 是一种逻辑解谜游戏，它的规则简单，解题过程富有挑战性。
+- [This Person Does Not Exist](https://thispersondoesnotexist.com/) AI 随机生成「虚拟人脸」照片。
+- [毒鸡汤](http://www.nows.fun/) 网站随机展示一句扎心的段子，越看越让人觉得生活没什么希望。
+- [萝卜工坊](http://www.beautifulcarrot.com/) 网站可以在线生成仿真度极高的手写体文稿，支持生成PDF矢量文档，打印出来后和真的手写体一样。
 
 ### 为了孩子
 - [上海微校（上海大规模智慧学习平台）](https://smile.shec.edu.cn/) 上海的远程教学平台
@@ -101,15 +111,18 @@ permalink: /bookmark
 - DroidID[Android] 是一款能够让你通过 Android 设备的指纹解锁你的 Mac 电脑的应用。
 - Spyglass [iOS/Android] 功能最强大的 GPS 工具，适合于户外运动与越野导航，能够提供基于手机 GPS 的各种功能，如 AR GPS 导航、带有地图的指南针、固定并追踪导航点、星星导航、光学测距仪、六分仪，角计算器与倾向仪等功能。
 - Recheck! 我的清单[iPhone/iPad/Apple Watch] 自带 100+ 套模板的清单应用。是一款专注于反复检查的清单应用，它更愿意让用户检查自己的代办清单，而不是不断的添加待办清单。
+- 交易游戏（Trading Game）[iOS/Android] 是⼀款功能强⼤的交易游戏软件，可以炒股，又可以炒外汇、黄⾦、⽯油甚⾄是⽐特币。
 
 ### 教育
 - LingoDeer[iOS/Android]是一款适合于从零开始学习一门新语言的应用，支持通过繁体中文学习英语、日语、韩语、葡萄牙语、德语、西班牙语。另外还支持通过其他语言学习其他语言。
 - 微软小英口语大师[Android/微信] 是良心开发商微软推出的一款基于人工智能技术的英语学习工具，它模拟了 150 多个真实情景对话，并给出提示让用户自己组织语言说出来，还会在说的过程中发现那些不对的地方进行专项训练。拥有微信公众号和 Android 客户端。
+- [微软爱写作[Web]](https://aka.ms/zuowen/?ref=appinn) 是微软亚洲研究院发布的一款针对英文考试作文的打分工具
 - 微软数学[iOS/Android] 小学到高中数学题，拍照解题、多种做题方法、函数图表、练习题
 - 历史地图[iOS/Android] 历史上的今天，历史上的地点，历史让我们回忆一下。
 - 万物历史[iOS/Android] 漂亮的时间轴，从宇宙大爆炸到互联网诞生。
 - 物理实验课[iOS/Android] 是一款复现电路元件每个细节的仿真物理实验室，通过 25 种电路元件的自由连接，能够进行高精度中小学物理实验的开放应用。
 - Euclidea[Web/iOS/Android] 是一款非常具有挑战性的几何解密游戏，你需要动脑筋来解决各种谜题，比如在给定的正方形中作一个内切圆、作给定两点的中点，可以使用多种工具，有直线、点、圆、等分线等等，100 多关。
+- 算法城市[Android] 用游戏教孩子们编程和算法，如果你的孩子能够被算法城市这样的应用激发出编程的兴趣，那么下一步就是可以利用麻省理工的 Scratch 开发平台来真的做一款自己的游戏。
 
 ### Chrome扩展
 - [Chrome 网上应用店](https://chrome.google.com/webstore/category/extensions)
@@ -132,6 +145,7 @@ permalink: /bookmark
 ### 软件
 - [uTools](https://u.tools/) 是一款非常强大的快速启动器，支持 Windows 与 macOS，类似于 Wox、Alfred、listary 等工具，通过快捷键呼出搜索框进行快速启动，包括本地搜索、翻译、todo、计算器、内网穿透、二维码处理等功能，还可以通过插件扩展功能。
 - [Zettlr](https://www.zettlr.com/) – 撰写专业论文的 MarkDown 编辑器[Win/macOS/Linux]
+- Ty2y杀毒[Windows] 能预防「未来病毒」的轻量级开源杀毒软件。([Github](https://github.com/w2sft/Ty2yAntiVirus))
 
 ## 个人blog
 - [张丹](http://blog.fens.me/about/)的[粉丝日志](http://blog.fens.me/) 博客总结了一些R,Java,Hadoop,Nodejs等IT技术的使用心得，以及从IT转金融的学习路线、各种知识汇总。
