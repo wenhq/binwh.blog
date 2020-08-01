@@ -85,6 +85,7 @@ permalink: /bookmark
 - [全球光污染地图](https://www.lightpollutionmap.info/) 这个网站提供了从2015年以来全世界的光污染图像。可以发现近年来光污染的现象加剧。
 - [用浏览器玩经典中文 DOS 游戏(Github)](https://github.com/rwv/chinese-dos-games) 利用 em-dosbox 将一些经典的中文 DOS 游戏封装成 WebAssembly 应用，然后可以直接在浏览器上运行。
 - [FamiCN.com网站](http://www.famicn.com/) 可以在线游玩网页版中文FC游戏。是配合知乎专栏 古董电脑室 建设的中文游戏模拟器网站，主要收集两岸三地非任天堂渠道发行的NES游戏。[Github](https://github.com/pengan1987/famicn)
+- [OldmanEmu](https://www.oldmanemu.net/) 收集「上万」街机掌机游戏 rom 以及汉化合集
 - [有人把 Windows 95 打包成软件了(Github)](https://github.com/felixrieseberg/windows95) 对于那些曾经的 Windows 95 用户，去怀个旧吧，不到 130MB 下载回来直接运行就行。
 - [brick4](http://brick4.com/) 是一个收集了市面上各种「乐高式积木」产品信息的检索小工具，能够通过关键词、外形、套组编号、型号等内容进行检索，得到各品牌的产品信息以及购买地址。
 - 股票走势跳远小游戏-[Stock Jump](http://stockjump.sos.gd/) 这个股票跳远将会用股票或者汇率以及其它经济上的走势图来让玩家进行滑雪跳远，内含沪深股指，可以说够全了。另外还可以分享地址给好友共同跳远。
