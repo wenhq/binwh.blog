@@ -67,6 +67,7 @@ module.exports = {
     logo:"/images/bin1.gif",
     nav:[ // 导航栏配置
       {text: 'BookMark', link: '/bookmark/', icon: 'reco-category'},
+      {text: 'AppMark', link: '/appmark/', icon: 'reco-up'},
       //{text: 'Message', link:'/message/',icon:'reco-message'},
       {text: 'About', link: '/about/', icon:'reco-account'},
       {text: 'RSS', link: 'https://www.binwh.com/rss.xml', icon:'reco-rss'},
