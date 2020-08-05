@@ -21,6 +21,8 @@ permalink: /bookmark
 - [Product Hunt](https://www.producthunt.com/) 是一个让你发现各种新产品的实用网站，你可以利用这个网站发现很多实用有趣的手机 App，电脑软件，网站，硬件产品，游戏，书籍等等。它提供产品推荐合辑功能，比如：管理会议的最佳工具是什么，什么是最好的番茄钟计时器，什么是最好的团队聊天解决方案，你最喜欢的 Chrome 扩展程序是什么，设计师必备的 Mac 应用程序是什么，什么是头脑风暴的最佳应用程序，什么是 iphone 上最好的视频编辑应用，什么是最好的客户反馈系统。
 - [正版中国](https://getitfree.cn/) 是一个十分专业的正版软件下载网站。它提供永久免费，限时折扣，限时免费三个版块，永久免费版块就是提供各种免费的正版软件，限时折扣和限时免费版块就是提供付费正版软件的限时活动。
 - [小画桌](https://xiaohuazhuo.com/) 是一款轻量级的在线实时多人协作白板工具，支持语言通话、演讲模式，适合于在线培训、授课，以及企业进行团队分享、头脑风暴、远程会议等场景。可在电脑与移动设备上使用。著名免费在线思维导图工具 ProcessOn 旗下产品。
+- [水水的证件](http://simpletool.cn/) 是一款能够为身份证添加水印的在线工具，让你能够在享受在线实名制服务的同时，防止不良商家将你的实名信息拿走倒卖。
+- [DzzOffice （中文：大桌子）](http://www.dzzoffice.com/)是一套开源办公套件，使用 php + mysql 经典构架，可以让任何人来搭建一套完全属于自己的多人在线协作办公套件，包括文档、表格、演示、网盘、记录、通讯录、相册等工具，类似于 G Suite、Office 365 等在线服务。
 
 ## 技术站
 - [大数据导航](http://hao.199it.com/) 是一个极其全面的大数据导航网站。它提供的大数据工具包括：互联网趋势分析、全球互联网数据、教育数据、网站排名查询工具、移动应用监测工具、网站热点分析工具、语义分析工具、直播数据、游戏数据、数据库、旅游行业工具、地理信息数据、数据可视化工具、文本分析工具、网站性能工具。
@@ -28,6 +30,9 @@ permalink: /bookmark
 - [dwitter.net](https://www.dwitter.net/) 前端炫酷技术展示。
 - [HTML5资源教程](https://www.html5tricks.com/) HTML5/CSS3教程和应用。
 - 可视化的[git练习网站](https://learngitbranching.js.org/).
+- [Docusaurus](https://docusaurus.io/zh-CN/) 是 Faecbook 专门为开源项目开发者提供的一款易于维护的静态网站创建工具，使用 Markdown 即可更新网站。青小蛙实验了一下，构建一个带有主页、文档、API、帮助 以及博客页面的静态网站，真的没用上 5 分钟。
+
+
 
 ## 图书论文
 - [i-Book](https://book.tstrs.me/) 是一个非常好用的极简电子书搜索网站。它界面简洁清新，采用极简风格，功能非常强大，实际体验非常出色，你用过就知道好用。它提供的电子书格式非常全面，包括：Epub 格式、Mobi 格式、Azw3 格式、Pdf 格式、Txt 格式。
@@ -73,6 +78,7 @@ permalink: /bookmark
 - [remove.bg](https://www.remove.bg/) 只需要上传一张带有人像的照片，它就会帮你自动扣掉背景，全自动、5秒完成，免费。
 - [Music Maker](https://musicmaker.site/) 由专业的数字音乐制作人推出的免费、可商用音乐配乐素材库，提供了 7 类共 21 首适合于不同场景的配乐。
 - [DisplayLag 的数据](https://displaylag.com/display-database/) 查询最好的电视和显示器。
+- [Squoosh!](https://squoosh.app/) 是 Google 开源发布的一款专门用来压缩图片的在线服务，支持 JPG、PNG、WebP 等格式的极限压缩，从青小蛙试用这几天的效果来看，比 TinyPNG 要强悍一点点。
 
 ## 有趣的网站
 - [在线模拟各种系统升级fakeupdate](http://fakeupdate.net/) 网站可以生成一个假的系统升级界面， Windows 98，Windows XP，Windows Vista，win 7,win 8,win10,OSX的升级界面统统都有，win 10 的安装界面，Steam os的安装界面也有，甚至还有前段时间的勒索病毒界面。
@@ -81,6 +87,7 @@ permalink: /bookmark
 - 高清物理原子3D模型[ProfilmOnline](https://www.profilmonline.com/) 可以在线浏览高清物理原子3D模型，抛开专业性不说，单单做为一种欣赏的艺术品，也值得我们一看！
 - [福利单词](http://dict.ftqq.com) 一边背单词一边看妹子的网站。网站名叫福利单词，电脑端使用，配合cmd+w关闭新窗口食用。
 - [全球光污染地图](https://www.lightpollutionmap.info/) 这个网站提供了从2015年以来全世界的光污染图像。可以发现近年来光污染的现象加剧。
+- [太空视角观看流星雨-Meteor showers](https://www.meteorshowers.org/ ) 高端天文网站，它可以在线以太空视角观看流星雨，3D立体互动画面可以让你很方便的观察流星雨的形成，这绝对是一次不错的浏览体验！
 - [用浏览器玩经典中文 DOS 游戏(Github)](https://github.com/rwv/chinese-dos-games) 利用 em-dosbox 将一些经典的中文 DOS 游戏封装成 WebAssembly 应用，然后可以直接在浏览器上运行。
 - [FamiCN.com网站](http://www.famicn.com/) 可以在线游玩网页版中文FC游戏。是配合知乎专栏 古董电脑室 建设的中文游戏模拟器网站，主要收集两岸三地非任天堂渠道发行的NES游戏。[Github](https://github.com/pengan1987/famicn)
 - [OldmanEmu](https://www.oldmanemu.net/) 收集「上万」街机掌机游戏 rom 以及汉化合集
@@ -91,6 +98,9 @@ permalink: /bookmark
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/) AI 随机生成「虚拟人脸」照片。
 - [毒鸡汤](http://www.nows.fun/) 网站随机展示一句扎心的段子，越看越让人觉得生活没什么希望。
 - [萝卜工坊](http://www.beautifulcarrot.com/) 网站可以在线生成仿真度极高的手写体文稿，支持生成PDF矢量文档，打印出来后和真的手写体一样。
+- [小鸡词典](https://jikipedia.com/) 如果你突然看到网络上的什么梗没明白，可以来这个网站查一下。。。它收录了几乎全部网络上流行的词条梗，基本上看解释都能明白了！
+- [速写绘画蓝本图集-Line of Action](https://line-of-action.com/) 
+寻找灵感的好地方！网站可以在线欣赏速写绘画参照图，根据详细的分类引导，你可以很轻松的找到你想要的图片！
 
 ## 为了孩子
 - [上海微校（上海大规模智慧学习平台）](https://smile.shec.edu.cn/) 上海的远程教学平台
@@ -98,6 +108,8 @@ permalink: /bookmark
 - [数学乐](https://www.shuxuele.com/) 是一个关于数学的网站，它使用有趣、易懂的语言来演示数学，并且覆盖了整个幼儿园到高中的数学课程，并且有很多活动、游戏来帮助学习。[英文版](http://www.mathsisfun.com/)
 - [瑞文网教材](https://www.ruiwen.com/jiaocai/) 提供人教版、北师大、苏教版、沪教版、浙教版、鲁科版、仁爱版英语等电子课本在线阅读。
 - [人教版教材](https://bp.pep.com.cn/jc/) 人民教育出版社提供的中小学教材电子版下载。
+- [佳能的创意公园](http://cp.c-ij.com/) 网站提供了大量免费的纸模、卡片、家具小饰品的制作图纸 。最主要的是里面的纸模一直都在更新。网站提供PDF文档下载，将PDF文档打印下来，根据上面的说明裁剪、粘贴。就可以作出精美的纸模型了！
+
 
 ## 生活各种
 - [医学微视](http://www.mvyxws.com/) 是一个以视频的方式分享各种医学知识的良心网站，强烈推荐。它是中国医学科学院健康科普研究中心监制的一个网站，并且不提供销售任何产品，它以短视频的形式帮助你了解各种疾病，通俗易懂，让你轻松了解各种医学知识；当我们遇到不懂的医学知识或者健康问题，直接利用这个网站，找到对应的疾病，就可以轻松找到对应的视频。
