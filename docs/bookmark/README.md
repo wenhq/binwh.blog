@@ -101,6 +101,7 @@ permalink: /bookmark
 - [小鸡词典](https://jikipedia.com/) 如果你突然看到网络上的什么梗没明白，可以来这个网站查一下。。。它收录了几乎全部网络上流行的词条梗，基本上看解释都能明白了！
 - [速写绘画蓝本图集-Line of Action](https://line-of-action.com/) 
 寻找灵感的好地方！网站可以在线欣赏速写绘画参照图，根据详细的分类引导，你可以很轻松的找到你想要的图片！
+- 现代单兵武器大全[GunWorld](http://pewpewpew.work/) 网站收集了全网最全的单兵枪械资料，图文详解，简单易懂.
 
 ## 为了孩子
 - [上海微校（上海大规模智慧学习平台）](https://smile.shec.edu.cn/) 上海的远程教学平台
