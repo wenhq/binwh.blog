@@ -1,6 +1,7 @@
 ---
 title: 保钓运动50年历史回顾（多图）
 date: 2020-11-28T15:41:00
+author: dwnews
 sidebar: false
 categories:
  - story
