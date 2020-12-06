@@ -1,13 +1,20 @@
 ---
 title: How shocking the ancient Chinese bridge is! (photo gallery)
 date: 2020-12-06T11:06:00
+lang: en-US
 author: 星球研究所（ID：xingqiuyanjiusuo）
-sidebar: false
+sidebar: auto
 categories:
  - story
 tags:
  - 文化
+meta:
+  - name: description
+    content: How shocking the ancient Chinese bridge is!
+  - name: keywords
+    content: ancient Chinese bridge beam arch stone wooden poem photo
 ---
+
 The ancient China in my impression has white walls and black tiles, cornices and horns, and a girl holding an oiled paper umbrella walking across a curved bridge...
 <!-- more -->
 

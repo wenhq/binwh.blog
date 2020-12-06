@@ -7,6 +7,11 @@ categories:
  - story
 tags:
  - 文化
+meta:
+  - name: description
+    content: 保钓运动50年历史回顾
+  - name: keywords
+    content: 保钓 保钓运动 50 50年 历史
 ---
 >钓鱼岛是中国固有领土。1895年中国因甲午战争战败，被迫签署《马关条约》，钓鱼岛等作为台湾“附属岛屿”一并被割让给日本。1900年，日本将钓鱼岛改名为“尖阁列岛”。
 

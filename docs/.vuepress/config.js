@@ -56,7 +56,20 @@ module.exports = {
       {
         'ga': 'UA-47366244-1' // UA-00000000-0
       }
-    ]
+    ],
+    [
+      "@mr-hope/seo",
+      {
+        hostname: 'https://www.binwh.com'
+      },
+    ],
+    [
+      "@mr-hope/sitemap",
+      {
+        hostname: 'https://www.binwh.com',
+        changefreq: 'daily'
+      },
+    ],
   ],
 
   theme: 'reco',
