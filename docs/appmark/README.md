@@ -53,6 +53,7 @@ permalink: /appmark
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) 为 Markdown 增加键盘快捷键，目录，自动预览等
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) 增强构建在 VS Code 中的 Git 功能
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) 使用 GitHub Gist 在多台机器上同步设置，代码片段，主题，文件图标，启动，键绑定，工作区和扩展。
+- [markmap](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode) 最佳的思维导图生成工具。
 
 ## 软件
 - [uTools](https://u.tools/) 是一款非常强大的快速启动器，支持 Windows 与 macOS，类似于 Wox、Alfred、listary 等工具，通过快捷键呼出搜索框进行快速启动，包括本地搜索、翻译、todo、计算器、内网穿透、二维码处理等功能，还可以通过插件扩展功能。
