@@ -91,6 +91,15 @@ module.exports = {
         ]
       }
     ],
+    friendLink: [// 友链
+      {
+        title: '小皮',
+        desc: '小皮的blog',
+        // logo: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
+        link: 'https://xiaopi.one'
+      },
+      // ...
+    ],
     sidebar: 'auto', // 侧边栏配置
     sidebarDepth: 2, // 侧边栏显示2级
     // 作者

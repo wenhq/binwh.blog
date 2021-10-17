@@ -42,6 +42,7 @@ permalink: /bookmark
 - [ePUBw](https://epubw.com/) 多格式电子书下载网站，百度网盘分享下载。
 - [读书369](http://www.dushu369.com/) 基于名著小说在线阅读网站。
 - [100本](https://www.100ben.net/) 电子书在线阅读网站，整理了一生必读的100本书。
+- [我的黄金书屋](http://www.goldroom.top/)  知识是人生最重要的防火墙。
 - [医学电子书(Github)](https://github.com/scienceasdf/medical-books) 貌似都是PDF格式的，作者一直还在更新中。
 - [医学电子书在线阅读](https://yixueshu.gitee.io/) 医学电子书以及其他读物在线阅读网站。
 - [全历史](https://www.allhistory.com/) 全方位了解历史的网站
@@ -84,7 +85,6 @@ permalink: /bookmark
 - [交互式元素周期表-Ptable](https://ptable.com/) 点击周期表上面的元素，不仅可以查看元素对应的动态的化学性质、同位素和化合物，还可以查看原子轨道的排布，电子的填充等数据。
 - [avogadr.io](https://avogadr.io/) 是一款在线生成化学分子式样式壁纸的服务，能够自定义分子式、背景色、字体颜色等等，最终生成一张非常酷的壁纸。
 - 高清物理原子3D模型[ProfilmOnline](https://www.profilmonline.com/) 可以在线浏览高清物理原子3D模型，抛开专业性不说，单单做为一种欣赏的艺术品，也值得我们一看！
-- [福利单词](http://dict.ftqq.com) 一边背单词一边看妹子的网站。网站名叫福利单词，电脑端使用，配合cmd+w关闭新窗口食用。
 - [全球光污染地图](https://www.lightpollutionmap.info/) 这个网站提供了从2015年以来全世界的光污染图像。可以发现近年来光污染的现象加剧。
 - [太空视角观看流星雨-Meteor showers](https://www.meteorshowers.org/ ) 高端天文网站，它可以在线以太空视角观看流星雨，3D立体互动画面可以让你很方便的观察流星雨的形成，这绝对是一次不错的浏览体验！
 - [用浏览器玩经典中文 DOS 游戏(Github)](https://github.com/rwv/chinese-dos-games) 利用 em-dosbox 将一些经典的中文 DOS 游戏封装成 WebAssembly 应用，然后可以直接在浏览器上运行。
@@ -98,7 +98,7 @@ permalink: /bookmark
 - [毒鸡汤](http://www.nows.fun/) 网站随机展示一句扎心的段子，越看越让人觉得生活没什么希望。
 - [萝卜工坊](http://www.beautifulcarrot.com/) 网站可以在线生成仿真度极高的手写体文稿，支持生成PDF矢量文档，打印出来后和真的手写体一样。
 - [小鸡词典](https://jikipedia.com/) 如果你突然看到网络上的什么梗没明白，可以来这个网站查一下。。。它收录了几乎全部网络上流行的词条梗，基本上看解释都能明白了！
-- [速写绘画蓝本图集-Line of Action](https://line-of-action.com/) 
+- [速写绘画蓝本图集-Line of Action](https://line-of-action.com/)
 寻找灵感的好地方！网站可以在线欣赏速写绘画参照图，根据详细的分类引导，你可以很轻松的找到你想要的图片！
 - 现代单兵武器大全[GunWorld](http://pewpewpew.work/) 网站收集了全网最全的单兵枪械资料，图文详解，简单易懂.
 
@@ -118,3 +118,5 @@ permalink: /bookmark
 
 ## 个人blog
 - [张丹](http://blog.fens.me/about/)的[粉丝日志](http://blog.fens.me/) 博客总结了一些R,Java,Hadoop,Nodejs等IT技术的使用心得，以及从IT转金融的学习路线、各种知识汇总。
+- [方糖气球](http://ftqq.com/)  Easy同学和他做的那些东西，有软件、教程、文章、游戏、漫画、设计等，之前“福利单词”也是他们搞的。
+- [漫步白月光](https://www.ccava.net/) 好玩又有趣，很多秘密等着你挖掘。旗下网站有西部导航、主机精选、树洞网事、软件合集、低价折扣、在线工具等。之前注册过，也忘了注册干啥用的了。
