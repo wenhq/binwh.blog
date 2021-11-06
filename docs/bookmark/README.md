@@ -101,6 +101,8 @@ permalink: /bookmark
 - [速写绘画蓝本图集-Line of Action](https://line-of-action.com/)
 寻找灵感的好地方！网站可以在线欣赏速写绘画参照图，根据详细的分类引导，你可以很轻松的找到你想要的图片！
 - 现代单兵武器大全[GunWorld](http://pewpewpew.work/) 网站收集了全网最全的单兵枪械资料，图文详解，简单易懂.
+- 打开页面可以看到全国各地的[纸质报刊媒体平台](https://laosheng.top/fly/)，“老生常谈”的博客制作的一个栏目
+- [Notion风格头像制作](https://notion-avatar.vercel.app/zh) Notion风格头像捏制
 
 ## 为了孩子
 - [上海微校（上海大规模智慧学习平台）](https://smile.shec.edu.cn/) 上海的远程教学平台
@@ -109,6 +111,7 @@ permalink: /bookmark
 - [瑞文网教材](https://www.ruiwen.com/jiaocai/) 提供人教版、北师大、苏教版、沪教版、浙教版、鲁科版、仁爱版英语等电子课本在线阅读。
 - [人教版教材](https://bp.pep.com.cn/jc/) 人民教育出版社提供的中小学教材电子版下载。
 - [佳能的创意公园](http://cp.c-ij.com/) 网站提供了大量免费的纸模、卡片、家具小饰品的制作图纸 。最主要的是里面的纸模一直都在更新。网站提供PDF文档下载，将PDF文档打印下来，根据上面的说明裁剪、粘贴。就可以作出精美的纸模型了！
+- [大学英语六级真题在线](https://zhenti.burningvocabulary.com/cet6) 2012年6月 - 2021年6月，共计55套真题试卷，在线音频听力，免费下载PDF文件
 
 
 ## 生活各种
