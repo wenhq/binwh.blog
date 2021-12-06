@@ -98,6 +98,12 @@ module.exports = {
         // logo: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         link: 'https://xiaopi.one'
       },
+      {
+        title: 'IFEI',
+        desc: 'FEI的摄影blog',
+        logo: "https://ifei.space/images/logo.svg",
+        link: 'https://ifei.space'
+      },
       // ...
     ],
     sidebar: 'auto', // 侧边栏配置
