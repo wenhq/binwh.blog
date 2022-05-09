@@ -63,13 +63,9 @@ permalink: /bookmark
 - [互联网电影资料库IMDB](https://www.imdb.com/) 一个关于电影演员、电影、电视节目、电视明星和电影制作的在线数据库。
 - [电影数据库分享平台](https://www.themoviedb.org/) 提供高分率的电影海报和电影艺术图片资源，除了是一个电影数据库资源网站外，也是一个电影海报资源分享网站。
 - [MusicBrainz](https://musicbrainz.org/) 开放音乐信息库。
-- [奈菲影视](https://www.nfmovies.com/) 网站有少量广告，资源比采集站的资源清晰很多，有些视频资源是网站自己压制的视频。
 - [茶杯狐](https://www.cupfox.com/) 是一个电影和电视剧评价和资源聚合的搜索引擎网站，提供豆瓣插件。
 - [BD影视分享](https://www.bd-film.cc/) 主要提供丰富的影视资源下载。
-- [音范丝影音集](http://www.yinfans.me/) 是一个高清蓝光电影资源的精选网站，主打蓝光电影，磁力链接下载，分享顶级蓝光原盘下载资源，人工精选高分影片。
-- [优质电影网](http://www.youzhidy.com/) 1080P高清电影迅雷下载网。
-- [Documentary Addict](https://documentaryaddict.com/)号称地表最大、内容最丰富的纪录片收集、策划频道，目前共提供26种分类，以及接近五千种各式各样的纪录片资源，这些图像并不是由网站本身托管、储存，而是从网络上整理而来，包括维基百科、YouTube、Vimeo等等，经过筛选分类，加入一些简单介绍后，让使用者更容易检索，找到自己需要的纪录片。
-- [音乐狂](http://music.junyuewl.com/)，随时听你想听的
+- [音范丝影音集](http://www.yinfans.me/) 是一个高清蓝光电影资源的精选网站，主打蓝光电影，磁力链接下载，分享顶级蓝光原盘下载资源，人工精选高分影片。 
 - [Unsplash](https://unsplash.com/) 使用仅次于 Bing的著名高清大图网站 Unsplash。
 - [Pexels](https://www.pexels.com/) 是一个质量非常高的图片素材库，类似于 unsplash。这些相片和影片免费用于个人和商业用途。
 - [Coverr](https://coverr.co/) 是一个免费可商用的航拍视频素材网站，和其它几个无版权限制的服务一样，你可以随意使用这里面的视频素材，包括商业性质使用。
@@ -79,6 +75,12 @@ permalink: /bookmark
 - [Music Maker](https://musicmaker.site/) 由专业的数字音乐制作人推出的免费、可商用音乐配乐素材库，提供了 7 类共 21 首适合于不同场景的配乐。
 - [DisplayLag 的数据](https://displaylag.com/display-database/) 查询最好的电视和显示器。
 - [Squoosh!](https://squoosh.app/) 是 Google 开源发布的一款专门用来压缩图片的在线服务，支持 JPG、PNG、WebP 等格式的极限压缩，从青小蛙试用这几天的效果来看，比 TinyPNG 要强悍一点点。
+<!--
+- [奈菲影视](https://www.nfmovies.com/) 网站有少量广告，资源比采集站的资源清晰很多，有些视频资源是网站自己压制的视频。
+- [Documentary Addict](https://documentaryaddict.com/)号称地表最大、内容最丰富的纪录片收集、策划频道，目前共提供26种分类，以及接近五千种各式各样的纪录片资源，这些图像并不是由网站本身托管、储存，而是从网络上整理而来，包括维基百科、YouTube、Vimeo等等，经过筛选分类，加入一些简单介绍后，让使用者更容易检索，找到自己需要的纪录片。
+- [优质电影网](http://www.youzhidy.com/) 1080P高清电影迅雷下载网。
+- [音乐狂](http://music.junyuewl.com/)，随时听你想听的
+-->
 
 ## 有趣的网站
 - [在线模拟各种系统升级fakeupdate](http://fakeupdate.net/) 网站可以生成一个假的系统升级界面， Windows 98，Windows XP，Windows Vista，win 7,win 8,win10,OSX的升级界面统统都有，win 10 的安装界面，Steam os的安装界面也有，甚至还有前段时间的勒索病毒界面。
@@ -87,13 +89,8 @@ permalink: /bookmark
 - 高清物理原子3D模型[ProfilmOnline](https://www.profilmonline.com/) 可以在线浏览高清物理原子3D模型，抛开专业性不说，单单做为一种欣赏的艺术品，也值得我们一看！
 - [全球光污染地图](https://www.lightpollutionmap.info/) 这个网站提供了从2015年以来全世界的光污染图像。可以发现近年来光污染的现象加剧。
 - [太空视角观看流星雨-Meteor showers](https://www.meteorshowers.org/ ) 高端天文网站，它可以在线以太空视角观看流星雨，3D立体互动画面可以让你很方便的观察流星雨的形成，这绝对是一次不错的浏览体验！
-- [用浏览器玩经典中文 DOS 游戏(Github)](https://github.com/rwv/chinese-dos-games) 利用 em-dosbox 将一些经典的中文 DOS 游戏封装成 WebAssembly 应用，然后可以直接在浏览器上运行。
-- [FamiCN.com网站](http://www.famicn.com/) 可以在线游玩网页版中文FC游戏。是配合知乎专栏 古董电脑室 建设的中文游戏模拟器网站，主要收集两岸三地非任天堂渠道发行的NES游戏。[Github](https://github.com/pengan1987/famicn)
-- [OldmanEmu](https://www.oldmanemu.net/) 收集「上万」街机掌机游戏 rom 以及汉化合集
 - [有人把 Windows 95 打包成软件了(Github)](https://github.com/felixrieseberg/windows95) 对于那些曾经的 Windows 95 用户，去怀个旧吧，不到 130MB 下载回来直接运行就行。
 - [brick4](http://brick4.com/) 是一个收集了市面上各种「乐高式积木」产品信息的检索小工具，能够通过关键词、外形、套组编号、型号等内容进行检索，得到各品牌的产品信息以及购买地址。
-- 股票走势跳远小游戏-[Stock Jump](http://stockjump.sos.gd/) 这个股票跳远将会用股票或者汇率以及其它经济上的走势图来让玩家进行滑雪跳远，内含沪深股指，可以说够全了。另外还可以分享地址给好友共同跳远。
-- [数织](https://cn.puzzle-nonograms.com/) 是一种逻辑解谜游戏，它的规则简单，解题过程富有挑战性。
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/) AI 随机生成「虚拟人脸」照片。
 - [毒鸡汤](http://www.nows.fun/) 网站随机展示一句扎心的段子，越看越让人觉得生活没什么希望。
 - [萝卜工坊](http://www.beautifulcarrot.com/) 网站可以在线生成仿真度极高的手写体文稿，支持生成PDF矢量文档，打印出来后和真的手写体一样。
@@ -119,7 +116,15 @@ permalink: /bookmark
 - [A+医学百科](http://www.a-hospital.com/) 在线医学百科全书，和“医学微视”差不多，都属科谱性网站。
 - [wikihow](https://zh.wikihow.com) 是一个综合技能搜索网站，不管生活中，工作中，遇到不会的东西，你都可以利用这个网站搜索。它上面还免费提供了很多生活，工作小技巧，并且包含不同的专业，不同的方面；总之，各种不会的技能，先用这个网站搜索。
 
+## 游戏娱乐
+- [用浏览器玩经典中文 DOS 游戏(Github)](https://github.com/rwv/chinese-dos-games) 利用 em-dosbox 将一些经典的中文 DOS 游戏封装成 WebAssembly 应用，然后可以直接在浏览器上运行。
+- [FamiCN.com网站](http://www.famicn.com/) 可以在线游玩网页版中文FC游戏。是配合知乎专栏 古董电脑室 建设的中文游戏模拟器网站，主要收集两岸三地非任天堂渠道发行的NES游戏。[Github](https://github.com/pengan1987/famicn)
+- [OldmanEmu](https://www.oldmanemu.net/) 收集「上万」街机掌机游戏 rom 以及汉化合集
+- 股票走势跳远小游戏-[Stock Jump](http://stockjump.sos.gd/) 这个股票跳远将会用股票或者汇率以及其它经济上的走势图来让玩家进行滑雪跳远，内含沪深股指，可以说够全了。另外还可以分享地址给好友共同跳远。
+- [数织](https://cn.puzzle-nonograms.com/) 是一种逻辑解谜游戏，它的规则简单，解题过程富有挑战性。
+- [无限扫雷](http://www.1000mines.com/) 是一个在PC端无限扫雷的网站，大师模式（Master）能比较好的兼顾娱乐性和难度。。
+
 ## 个人blog
 - [张丹](http://blog.fens.me/about/)的[粉丝日志](http://blog.fens.me/) 博客总结了一些R,Java,Hadoop,Nodejs等IT技术的使用心得，以及从IT转金融的学习路线、各种知识汇总。
 - [方糖气球](http://ftqq.com/)  Easy同学和他做的那些东西，有软件、教程、文章、游戏、漫画、设计等，之前“福利单词”也是他们搞的。
-- [漫步白月光](https://www.ccava.net/) 好玩又有趣，很多秘密等着你挖掘。旗下网站有西部导航、主机精选、树洞网事、软件合集、低价折扣、在线工具等。之前注册过，也忘了注册干啥用的了。
+<!-- - [漫步白月光](https://www.ccava.net/) 好玩又有趣，很多秘密等着你挖掘。旗下网站有西部导航、主机精选、树洞网事、软件合集、低价折扣、在线工具等。之前注册过，也忘了注册干啥用的了。-->
