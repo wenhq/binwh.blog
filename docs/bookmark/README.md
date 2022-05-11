@@ -32,6 +32,7 @@ permalink: /bookmark
 - [HTML5资源教程](https://www.html5tricks.com/) HTML5/CSS3教程和应用。
 - 可视化的[git练习网站](https://learngitbranching.js.org/).
 - [Docusaurus](https://docusaurus.io/zh-CN/) 是 Faecbook 专门为开源项目开发者提供的一款易于维护的静态网站创建工具，使用 Markdown 即可更新网站。青小蛙实验了一下，构建一个带有主页、文档、API、帮助 以及博客页面的静态网站，真的没用上 5 分钟。
+- [Python手册](https://docs.python.org/3/reference/introduction.html)
 
 ## 图书论文
 - [i-Book](https://book.tstrs.me/) 是一个非常好用的极简电子书搜索网站。它界面简洁清新，采用极简风格，功能非常强大，实际体验非常出色，你用过就知道好用。它提供的电子书格式非常全面，包括：Epub 格式、Mobi 格式、Azw3 格式、Pdf 格式、Txt 格式。
