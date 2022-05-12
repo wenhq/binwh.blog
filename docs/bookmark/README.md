@@ -35,15 +35,12 @@ permalink: /bookmark
 - [Python手册](https://docs.python.org/3/reference/introduction.html)
 
 ## 图书论文
-- [i-Book](https://book.tstrs.me/) 是一个非常好用的极简电子书搜索网站。它界面简洁清新，采用极简风格，功能非常强大，实际体验非常出色，你用过就知道好用。它提供的电子书格式非常全面，包括：Epub 格式、Mobi 格式、Azw3 格式、Pdf 格式、Txt 格式。
 - [三秋书屋](https://www.d4j.cn/) 是一个不可多得的精品电子书网站。它支持直接免费下载电子书籍，支持下载的电子书籍格式包括：Epub 、Mobi 、Azw3 、Pdf 格式。
 - [鸠摩搜索](https://www.jiumodiary.com/) 电子书搜索引擎， 提供各类电子书搜索下载，有多种格式。
 - [Library Genesis](http://gen.lib.rus.ec/) 英文电子书搜索引擎，可搜索英文原版的电子书，格式包含 PDF、MOBI 和 EPUB。
 - [七彩英语](http://www.qcenglish.com/) 提供PDF或TXT格式的英文原版电子书下载。
-- [ePUBw](https://epubw.com/) 多格式电子书下载网站，百度网盘分享下载。
 - [读书369](http://www.dushu369.com/) 基于名著小说在线阅读网站。
 - [100本](https://www.100ben.net/) 电子书在线阅读网站，整理了一生必读的100本书。
-- [我的黄金书屋](http://www.goldroom.top/)  知识是人生最重要的防火墙。
 - [医学电子书(Github)](https://github.com/scienceasdf/medical-books) 貌似都是PDF格式的，作者一直还在更新中。
 - [医学电子书在线阅读](https://yixueshu.gitee.io/) 医学电子书以及其他读物在线阅读网站。
 - [全历史](https://www.allhistory.com/) 全方位了解历史的网站
@@ -59,6 +56,11 @@ permalink: /bookmark
 - [EyesAsia(Github)](https://github.com/HaoyunS/EyesAsia) 是一款“地图”字体，内含的形状包括中国一级行政区（省、直辖市、自治区、特别行政区），最大咸水湖（青海湖），四大淡水湖（鄱阳湖、洞庭湖、太湖、洪泽湖），以及日本、朝鲜、韩国等几个东亚国家。
 - [Ecofont](http://www.ecofont.com/) 能拯救地球的环保字体，有效节省20%墨水量。
 - [Ryman Eco](http://rymaneco.co.uk/) 节省33%墨水的「环保字体」，让你在打印时省钱又能爱地球！
+<!--
+- [i-Book](https://book.tstrs.me/) 是一个非常好用的极简电子书搜索网站。它界面简洁清新，采用极简风格，功能非常强大，实际体验非常出色，你用过就知道好用。它提供的电子书格式非常全面，包括：Epub 格式、Mobi 格式、Azw3 格式、Pdf 格式、Txt 格式。
+- [ePUBw](https://epubw.com/) 多格式电子书下载网站，百度网盘分享下载。
+- [我的黄金书屋](http://www.goldroom.top/)  知识是人生最重要的防火墙。
+-->
 
 ## 影音图片
 - [互联网电影资料库IMDB](https://www.imdb.com/) 一个关于电影演员、电影、电视节目、电视明星和电影制作的在线数据库。

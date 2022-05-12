@@ -45,6 +45,7 @@ permalink: /appmark
 - [Synology Download Station](https://chrome.google.com/webstore/detail/synology-download-station/onhbegdkgonhlokobjefolhpoidcnida?hl=zh-CN) 是一款浏览器扩展，可以在不访问 群晖 网页版本的情况下，浏览下载中心套件的正在下载与已下载任务，还可以添加任务，只需要点击网页上面的下载地址，支持磁力、迅雷、QQ、电驴链接。
 - [违禁词检查](https://chrome.google.com/webstore/detail/%E8%BF%9D%E7%A6%81%E8%AF%8D%E6%A3%80%E6%9F%A5/hidcgccgkiamehonfofohinbaeefabmi?hl=zh-CN)是一款针对电商的 Chrome 扩展，用来检测网页中，可能违反《中华人民共和国广告法》相关规定的文字描述，并高亮显示出来，支持图片文字识别 OCR。
 - [Weather For Chrome](https://chrome.google.com/webstore/detail/weather-for-chrome/djgcclepbpbjmgpooagcjgidkejhdfnn?hl=zh-CN) 是一款在 Chrome 里显示天气预报和空气质量的扩展，有动画效果，可以显示温度、天气、空气质量、AQI、风速、湿度、气压、云量、能见度等信息。
+- [Relingo](https://chrome.google.com/webstore/detail/relingo-master-words-from/dpphkcfmnbkdpmgneljgdhfnccnhmfig) 是一款 Chrome 浏览器扩展，它能够在你阅读英文文章，或观看带有英文字幕的视频时，根据分级自动标示生词，并支持划词翻译，让你可以「基于兴趣阅读，不知不觉掌握词汇」。
 
 ## VS Code 插件
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) Vue 文件语法高亮、片段整理、错误检查、格式化
