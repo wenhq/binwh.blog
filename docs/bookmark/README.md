@@ -78,6 +78,7 @@ permalink: /bookmark
 - [Music Maker](https://musicmaker.site/) 由专业的数字音乐制作人推出的免费、可商用音乐配乐素材库，提供了 7 类共 21 首适合于不同场景的配乐。
 - [DisplayLag 的数据](https://displaylag.com/display-database/) 查询最好的电视和显示器。
 - [Squoosh!](https://squoosh.app/) 是 Google 开源发布的一款专门用来压缩图片的在线服务，支持 JPG、PNG、WebP 等格式的极限压缩，从青小蛙试用这几天的效果来看，比 TinyPNG 要强悍一点点。
+- [33台词](http://33.agilestudio.cn/) 通过台词找影片素材，视频剪辑工作者必备
 <!--
 - [奈菲影视](https://www.nfmovies.com/) 网站有少量广告，资源比采集站的资源清晰很多，有些视频资源是网站自己压制的视频。
 - [Documentary Addict](https://documentaryaddict.com/)号称地表最大、内容最丰富的纪录片收集、策划频道，目前共提供26种分类，以及接近五千种各式各样的纪录片资源，这些图像并不是由网站本身托管、储存，而是从网络上整理而来，包括维基百科、YouTube、Vimeo等等，经过筛选分类，加入一些简单介绍后，让使用者更容易检索，找到自己需要的纪录片。
@@ -103,6 +104,7 @@ permalink: /bookmark
 - 现代单兵武器大全[GunWorld](http://pewpewpew.work/) 网站收集了全网最全的单兵枪械资料，图文详解，简单易懂.
 - 打开页面可以看到全国各地的[纸质报刊媒体平台](https://laosheng.top/fly/)，“老生常谈”的博客制作的一个栏目
 - [Notion风格头像制作](https://notion-avatar.vercel.app/zh) Notion风格头像捏制
+- [AI山水画](http://shan-shui-inf.lingdong.works/)
 
 ## 为了孩子
 - [上海微校（上海大规模智慧学习平台）](https://smile.shec.edu.cn/) 上海的远程教学平台
