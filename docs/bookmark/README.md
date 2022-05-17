@@ -105,6 +105,8 @@ permalink: /bookmark
 - 打开页面可以看到全国各地的[纸质报刊媒体平台](https://laosheng.top/fly/)，“老生常谈”的博客制作的一个栏目
 - [Notion风格头像制作](https://notion-avatar.vercel.app/zh) Notion风格头像捏制
 - [AI山水画](http://shan-shui-inf.lingdong.works/)
+- [City Walks](https://citywalks.live/) 是一款真「云逛街」产品，它通过视频的方式，让你足不出户，就能在雅典、阿姆斯特丹、罗马、里斯本、耶路撒冷、上海、重庆、里约热内卢等 37 个城市的街头闲逛。
+- [Drive & Listen](https://driveandlisten.herokuapp.com/)可以一边听着当地的电台，一边开车在城市里转悠。
 
 ## 为了孩子
 - [上海微校（上海大规模智慧学习平台）](https://smile.shec.edu.cn/) 上海的远程教学平台
