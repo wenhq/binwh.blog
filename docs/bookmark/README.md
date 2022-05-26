@@ -108,6 +108,7 @@ permalink: /bookmark
 - [AI山水画](http://shan-shui-inf.lingdong.works/)
 - [City Walks](https://citywalks.live/) 是一款真「云逛街」产品，它通过视频的方式，让你足不出户，就能在雅典、阿姆斯特丹、罗马、里斯本、耶路撒冷、上海、重庆、里约热内卢等 37 个城市的街头闲逛。
 - [Drive & Listen](https://driveandlisten.herokuapp.com/)可以一边听着当地的电台，一边开车在城市里转悠。
+- [精美包装盒图纸下载](https://www.templatemaker.nl/) 选择一个喜欢的样式后，点击进入设置、下载页面，根据你的需要设置尺寸和下载格式！
 
 ## 为了孩子
 - [上海微校（上海大规模智慧学习平台）](https://smile.shec.edu.cn/) 上海的远程教学平台
