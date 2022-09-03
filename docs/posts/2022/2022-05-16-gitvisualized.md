@@ -7,7 +7,7 @@ sidebar: auto
 categories:
  - tech
 tags:
- - tech,翻译
+ - tech
 meta:
   - name: description
     content: CS Visualized Useful Git Commands
