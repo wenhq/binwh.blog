@@ -1,0 +1,11 @@
+theme = 'PaperMod'
+DefaultContentLanguage = 'zh-CN'
+
+enableRobotsTXT = true
+buildDrafts = true
+buildFuture = false
+buildExpired = false
+
+[minify]
+  disableXML = true
+  minifyOutput = true

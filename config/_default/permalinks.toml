@@ -1,0 +1,2 @@
+posts = '/:year/:month/:day/:slug/'
+tutorials = '/training/:slug/'
