@@ -1,5 +1,7 @@
+baseURL = '/'
 theme = 'PaperMod'
-DefaultContentLanguage = 'en'
+languageCode = 'cn'
+DefaultContentLanguage = 'cn'
 
 enableRobotsTXT = true
 buildDrafts = true
