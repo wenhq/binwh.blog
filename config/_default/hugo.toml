@@ -10,4 +10,4 @@ buildExpired = false
 
 [minify]
   disableXML = true
-  minifyOutput = true
+  minifyOutput = false
