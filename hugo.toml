@@ -1,3 +1,13 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://binwh.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Binary WareHouse'
+paginate = 10
+theme = 'PaperMod'
+
+[permalinks]
+  [permalinks.page]
+    posts = '/:year/:month/:day/:slug/'
+    tutorials = '/training/:slug/'
+  [permalinks.section]
+    posts = '/articles/'
+    tutorials = '/training/'

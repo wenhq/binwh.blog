@@ -1,5 +1,6 @@
 ---
-title: "2024 02 05 Build_blog_site_with_hugo"
+title: "Build_blog_site_with_hugo"
+slug: "Build-blog-site-with-hugo"
 date: 2024-02-05T10:50:27+08:00
 # weight: 1
 # aliases: ["/first"]
