@@ -1,16 +1,19 @@
 baseURL = '/'
-theme = 'PaperMod'
 languageCode = 'cn'
-DefaultContentLanguage = 'cn'
+defaultContentLanguage = 'cn' # 默认语言
+defaultContentLanguageInSubdir = false # 默认语言是否放在子目录中，默认路径会增加/cn/
+theme = 'PaperMod'
 
-enableRobotsTXT = true
-buildDrafts = true
+nableInlineShortcodes = true #允许内联短码
+enableEmoji = true # 允许使用 Emoji 表情，建议 true
+enableRobotsTXT = true # 允许爬虫抓取到搜索引擎，建议 true
+hasCJKLanguage = true # 自动检测是否包含中文日文韩文，如果文章中使用了很多中文引号的话可以开启
+
+buildDrafts = false
 buildFuture = false
 buildExpired = false
 
-enableEmoji = true
-
-hasCJKLanguage = true
+paginate = 5    # 每页显示的文章数
 
 [minify]
   disableXML = true
