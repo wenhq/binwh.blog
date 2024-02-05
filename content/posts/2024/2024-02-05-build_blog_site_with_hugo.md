@@ -8,7 +8,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "hugo build error: expected comma character or an array or object ending on line"
+description: 困扰我一下午的问题，hugo编译出错：expected comma character or an array or object ending on line
 disableHLJS: false
 disableShare: false
 hideSummary: false
