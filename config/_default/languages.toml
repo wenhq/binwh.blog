@@ -4,9 +4,22 @@
   languageCode = "en"
   languageName = 'English'
   title = 'Binary WareHouse'
-[zh-cn]
+  [en.params]
+    description = "something about computer tech."
+    # keywords = "Hugo, Bootstrap, 博客主题"
+    keywords = ["computer", "tech", "binary", "warehouse", "blog"]
+    [en.params.archive]
+      dateFormat = "01-31"
+
+[cn]
   weight = 1
   baseURL = '/'
-  languageCode = "zh-CN"
+  languageCode = "cn"
   languageName = '简体中文'
   title = '二进制仓库'
+  [cn.params]
+    description = "一个随便写写画画的二进制仓库。"
+    # keywords = "Hugo, Bootstrap, 博客主题"
+    keywords = ["计算机", "技术", "博客", "仓库", "blog"]
+    [cn.params.archive]
+      dateFormat = "01月31日"

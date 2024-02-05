@@ -1,10 +1,10 @@
 [[main]]
-  weight = 0
+  weight = 1
   identifier = "Search"
   name = "Search"
   url = "/search"
 [[main]]
-  weight = 1
+  weight = 2
   identifier = "posts"
   pre = ""
   post = ""
@@ -12,7 +12,7 @@
   url = "/posts/"
   title = ""
 [[main]]
-  weight = 2
+  weight = 3
   identifier = "tags"
   pre = ""
   post = ""
@@ -20,7 +20,7 @@
   url = "/tags/"
   title = ""
 [[main]]
-  weight = 3
+  weight = 4
   identifier = "categories"
   pre = ""
   post = ""

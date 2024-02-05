@@ -1,5 +1,5 @@
 theme = 'PaperMod'
-DefaultContentLanguage = 'zh-CN'
+DefaultContentLanguage = 'cn'
 
 enableRobotsTXT = true
 buildDrafts = true

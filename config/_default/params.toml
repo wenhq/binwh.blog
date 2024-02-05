@@ -1,12 +1,5 @@
-# site description
-# 网站描述
-description = "一个随便写写画画的二进制仓库。"
-# site keywords
-# 网站关键词
-keywords = ["计算机", "技术", "博客", "仓库", "blog"]
 # App icon config
 # 应用图标配置
-subtitle = '一个随便写写画画的二进制仓库'
 [params.contact]
   email = 'binwh@binwh.com'
   #phone = '+1 202-555-1212'
