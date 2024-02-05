@@ -1,27 +1,62 @@
 [cn]
   weight = 1
-  #baseURL = '/'
+  #baseURL = '/' # 不能有
   languageCode = "cn"
   languageName = '简体中文'
-  title = '二进制仓库'
-  hasCJKLanguage = true
+  title = '数位仓库'
   copyright = "你好 Hugo！"
   [cn.params]
     description = "一个随便写写画画的二进制仓库。"
-    # keywords = "Hugo, Bootstrap, 博客主题"
     keywords = ["计算机", "技术", "博客", "仓库", "blog"]
+    DateFormat = '2006年1月2日'
     [cn.params.archive]
       dateFormat = "01月31日"
+    [cn.params.homeInfoParams]
+      enabled = true
+      Title = "数字世界纷纷扰扰，在这里做个存储和整理"
+      Content = "这是一个对这个世界充满好奇的产品汪 :dog: —— **[进一步了解我:cat:](/about)**"
+    [[cn.params.socialIcons]]
+      name = "zhihu"
+      url = "https://zhihu.com/"
+    [[cn.params.socialIcons]]
+      name = "douban"
+      url = "https://douban.com/"
+    [[cn.params.socialIcons]]
+      name = "rss"
+      url = "/index.xml"
+    [[cn.params.socialIcons]]
+      name = "email"
+      url = "mailto:site@binwh.com"
+    [cn.params.profileMode]
+      enabled = false
+      title = "(〃'▽'〃)"
+      subtitle = "这是一个对这个世界充满好奇的产品汪"
 [en]
   weight = 2
-  #baseURL = '/'
+  #baseURL = '/' 不能有
   languageCode = "en"
   languageName = 'English'
   title = 'Binary WareHouse'
-  hasCJKLanguage = true
   copyright = "Hello Hugo!"
   [en.params]
     description = "something about computer tech."
     keywords = ["computer", "tech", "binary", "warehouse", "blog"]
-    [en.params.archive]
-      dateFormat = "01-31"
+    DateFormat = 'January 2, 2006'
+    [en.params.homeInfoParams]
+        Title = "In the chaotic digital realm, find solace here"
+        Content = "This is a product manager :dog: who curious about the world. - **[about author more :cat:](/about)**"
+    [[en.params.socialIcons]]
+      name = "x"
+      url = "https://x.com/"
+    [[en.params.socialIcons]]
+      name = "github"
+      url = "https://github.com/"
+    [[en.params.socialIcons]]
+      name = "rss"
+      url = "/index.xml"
+    [[en.params.socialIcons]]
+      name = "email"
+      url = "mailto:site@binwh.com"
+    [en.params.profileMode]
+      enabled = false
+      subtitle = "This is subtitle"

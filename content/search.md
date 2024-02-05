@@ -1,6 +1,6 @@
 ---
 title: '搜索'
-date: 2024-02-05T15:54:10+08:00
-draft: false
-layout: search
+layout: 'search'
+placeholder: "请输入需要搜索的内容"
+searchHidden: false
 ---

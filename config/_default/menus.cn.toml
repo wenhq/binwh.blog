@@ -8,7 +8,7 @@
   identifier = "posts"
   pre = ""
   post = ""
-  name = "归档"
+  name = "日志"
   url = "/posts/"
   title = "Posts"
 [[main]]

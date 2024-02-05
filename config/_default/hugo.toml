@@ -8,6 +8,10 @@ buildDrafts = true
 buildFuture = false
 buildExpired = false
 
+enableEmoji = true
+
+hasCJKLanguage = true
+
 [minify]
   disableXML = true
   minifyOutput = false
