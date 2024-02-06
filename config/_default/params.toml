@@ -65,25 +65,3 @@ pygmentsUseClasses = true
 
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]
-
-[params.page.comment]
-  enable = true
-  [params.page.comment.giscus]
-    # 你可以参考官方文档来使用下列配置
-    enable = true
-    repo = "wenhq/binwh.blog"
-    repoId = "MDEwOlJlcG9zaXRvcnkyMzM1Mzk1MTk="
-    category = "Announcements"
-    categoryId = "DIC_kwDODeuHv84Cc-iS"
-    # 为空时自动适配当前主题 i18n 配置
-    lang = ""
-    mapping = "pathname"
-    # <your_mapping> 对应官网的 data-mapping
-    reactionsEnabled = "1"
-    emitMetadata = "0"
-    inputPosition = "bottom"
-    lazyLoading = false
-    lightTheme = "light"
-    darkTheme = "dark_dimmed"
-    #theme = "preferred_color_scheme"
-    #crossorigin="anonymous"
