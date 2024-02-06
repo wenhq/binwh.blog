@@ -25,7 +25,6 @@ ShareButtons = ["x", "facebook", "telegram", "reddit"]
   favicon32x32 = "img/bin1.gif"
   apple_touch_icon = "img/bin1.gif"
   safari_pinned_tab = "img/bin1.gif"
-
 [label]
   icon = "img/bin2.gif"
   iconHeight = 32
@@ -40,7 +39,7 @@ ShareButtons = ["x", "facebook", "telegram", "reddit"]
   threshold = 0.4
   minMatchCharLength = 0
   # limit = 10 # refer: https://www.fusejs.io/api/methods.html#search
-  keys = [ "title", "permalink", "summary", "content" ]
+  keys = ["title", "summary", "content", "permalink"]
 
 pygmentsUseClasses = true
 
@@ -62,6 +61,3 @@ pygmentsUseClasses = true
     # lineNumbersInTable：使用表来格式化行号和代码,而不是 标签。这个属性一般设置为 true.
     lineNos = true
     style = 'monokai'
-
-[outputs]
-  home = [ "HTML", "RSS", "JSON" ]

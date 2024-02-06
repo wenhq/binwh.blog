@@ -2,7 +2,7 @@
   weight = 1
   #baseURL = '/' # 不能有
   languageCode = "cn"
-  languageName = ':cn:简体中文'
+  languageName = '简体中文'
   title = '数位仓库'
   copyright = "[本站](https://binwh.com) :copyright: 2024遵循（[知识共享署名-非商业使用4.0国际协议](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans)）"
   [cn.params]
@@ -35,7 +35,7 @@
   weight = 2
   #baseURL = '/' 不能有
   languageCode = "en"
-  languageName = ':gb:English'
+  languageName = 'English'
   title = 'Binary WareHouse'
   copyright = "[Binwh.com](https://binwh.com) :copyright: 2024 by [binwh](https://binwh.com/about) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)"
   [en.params]
