@@ -26,7 +26,7 @@
       url = "/index.xml"
     [[cn.params.socialIcons]]
       name = "email"
-      url = "mailto:site@binwh.com"
+      url = "mailto:wenhq@binwh.com"
     [cn.params.profileMode]
       enabled = false
       title = "(〃'▽'〃)"
@@ -56,7 +56,7 @@
       url = "/index.xml"
     [[en.params.socialIcons]]
       name = "email"
-      url = "mailto:site@binwh.com"
+      url = "mailto:wenhq@binwh.com"
     [en.params.profileMode]
       enabled = false
       subtitle = "This is subtitle"
