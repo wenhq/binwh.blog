@@ -2,9 +2,9 @@
   weight = 1
   #baseURL = '/' # 不能有
   languageCode = "cn"
-  languageName = '简体中文'
+  languageName = ':cn:简体中文'
   title = '数位仓库'
-  copyright = "随便找了协议，先凑合用[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+  copyright = "[本站](https://binwh.com) :copyright: 2024遵循（[知识共享署名-非商业使用4.0国际协议](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans)）"
   [cn.params]
     description = "一个随便写写画画的二进制仓库。"
     keywords = ["计算机", "技术", "博客", "仓库", "blog"]
@@ -35,9 +35,9 @@
   weight = 2
   #baseURL = '/' 不能有
   languageCode = "en"
-  languageName = 'English'
+  languageName = ':gb:English'
   title = 'Binary WareHouse'
-  copyright = "Content under license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+  copyright = "[Binwh.com](https://binwh.com) :copyright: 2024 by [binwh](https://binwh.com/about) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/)"
   [en.params]
     description = "something about computer tech."
     keywords = ["computer", "tech", "binary", "warehouse", "blog"]
