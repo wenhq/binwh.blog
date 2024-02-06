@@ -2,7 +2,7 @@
 title: "Hugo build error:  expected comma characteror or an array"
 slug: Build-blog-site-with-hugo
 date: 2024-02-05T10:50:27+08:00
-author: binwh
+author: wenhq
 description: "Desc Thugo build error: expected comma character or an array or object ending on lineext."
 draft: false
 share: true
