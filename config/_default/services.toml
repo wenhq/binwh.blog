@@ -1,3 +1,2 @@
-[services]
-  [services.googleAnalytics]
-    ID = 'G-V4JSFF3889'
+[googleAnalytics]
+  ID = 'G-V4JSFF3889'
