@@ -5,7 +5,7 @@ date: 2024-02-05T10:50:27+08:00
 author: binwh
 description: 困扰我一下午的问题，hugo编译出错：expected comma character or an array or object ending on line
 draft: false
-share: "true"
+share: true
 ---
 ## 背景
 
