@@ -5,7 +5,7 @@ ShowReadingTime = true
 ShowShareButtons = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
-ShowCodeCopyButtons = false
+ShowCodeCopyButtons = true
 ShowWordCount = true
 ShowRssButtonInSectionTermList = true
 UseHugoToc = true
@@ -39,7 +39,7 @@ ShareButtons = ["x", "facebook", "telegram", "reddit"]
   threshold = 0.4
   minMatchCharLength = 0
   # limit = 10 # refer: https://www.fusejs.io/api/methods.html#search
-  keys = ["title", "summary", "content", "permalink"]
+  keys = ["title", "summary", "permalink"] # , "content"
 
 pygmentsUseClasses = true
 

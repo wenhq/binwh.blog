@@ -27,3 +27,8 @@
   name = "Categories"
   url = "/categories/"
   title = ""
+[[main]]
+  weight = 7
+  identifier = "about"
+  name = "About"
+  url = "/about"
