@@ -1,7 +1,7 @@
 ---
 title: How shocking the ancient Chinese bridge is! (photo gallery)
 date: 2020-12-06T11:06:00
-slug: theAncientChineseBridge.html
+slug: theAncientChineseBridge
 author: 
 description: The ancient China in my impression has white walls and black tiles, cornices and horns, and a girl holding an oiled paper umbrella walking across a curved bridge...
 draft: false
