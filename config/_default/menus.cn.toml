@@ -7,7 +7,7 @@
   weight = 2
   identifier = "Bookmark"
   name = "书签"
-  url = "/bookmark"
+  url = "https://bookmarks.binwh.com/"
 [[main]]
   weight = 3
   identifier = "Appmark"
