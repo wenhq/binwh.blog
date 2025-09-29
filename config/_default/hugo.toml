@@ -29,5 +29,5 @@ paginate = 5    # 每页显示的文章数
 [params]
   [services]
     [umami_analytics]
-      id = 'e53dc0fc-3c9b-4e86-8200-dd0ed7b2fd29'
+      id = 'db2b1dc8-515e-4de4-a65e-7b601bad8411'
       script_url = 'https://umami.binwh.com/script.js'
