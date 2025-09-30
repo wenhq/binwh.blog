@@ -74,7 +74,7 @@ ERROR => hugo v0.146.0 or greater is required for hugo-PaperMod to build
 
 ## 其他
 
-这篇有关 hugo 报错的 [文章](/2024/02/05/build-blog-site-with-hugo/) 已经过时。
+这篇有关 hugo 报错的 [文章](https://www.binwh.com/2024/02/05/build-blog-site-with-hugo/) 已经过时。
 
 ## 附：情绪调节方法
 
