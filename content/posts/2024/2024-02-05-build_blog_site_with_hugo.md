@@ -7,6 +7,8 @@ description: 困扰我一下午的问题，hugo编译出错：expected comma cha
 draft: false
 share: true
 ---
+> 这篇文档已经过时，目前已经没有这个错误了。
+
 ## 背景
 
 使用 `hugo` 构建自己的博客时，执行：

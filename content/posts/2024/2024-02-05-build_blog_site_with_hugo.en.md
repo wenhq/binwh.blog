@@ -7,6 +7,8 @@ description: "Desc Thugo build error: expected comma character or an array or ob
 draft: false
 share: true
 ---
+>This document is outdated and there is currently no such error.
+
 ## Background
 
 When building my blog using `hugo` , executing:

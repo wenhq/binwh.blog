@@ -17,7 +17,7 @@ pagination.pagerSize = 5    # 每页显示的文章数
 
 [minify]
   disableXML = true
-  minifyOutput = false
+  minifyOutput = true
 
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]
