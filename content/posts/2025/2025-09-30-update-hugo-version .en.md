@@ -77,4 +77,4 @@ Finally, in the paths *Deployments*  ➡ *All deployments* find out the latest d
 
 ## Others
 
-[This article](https://www.binhw.com/en/2024/02/05/build-blog-site-with-hugo/) about hugo error reporting is outdated.
+[This article](https://www.binwh.com/en/2024/02/05/build-blog-site-with-hugo/) about hugo error reporting is outdated.
