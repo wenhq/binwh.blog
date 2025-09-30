@@ -71,6 +71,11 @@ ERROR => hugo v0.146.0 or greater is required for hugo-PaperMod to build
 
 最后在 *部署*  ➡ *所有部署*路径下找到最近的记录点击  *重试部署* ，一切正常。
 
+
+## 其他
+
+这篇有关 hugo 报错的 [文章](/2024/02/05/build-blog-site-with-hugo/) 已经过时。
+
 ## 附：情绪调节方法
 
 ![](https://img.binwh.com/file/pictures-tigcat/2025/03/09/GkDEn0IXUAAN6kb.JPG)
