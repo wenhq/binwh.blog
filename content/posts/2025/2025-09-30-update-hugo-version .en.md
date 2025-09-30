@@ -7,7 +7,7 @@ description: Update Hugo Version And  Integrate Umami Analysis On PaperMod Theme
 draft: false
 share: true
 ---
-> 很久没有更新站点了，最近抽时间做了一下hugo版本升级，顺带增加了一个umami的统计功能。
+> I haven't updated the site for a long time. Recently, I have time to upgrade to the latest version of Hugo, and I also added a Umami analytics feature.
 
 ## Local compilation environment
 
