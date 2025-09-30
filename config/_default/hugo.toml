@@ -13,7 +13,7 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 
-paginate = 5    # 每页显示的文章数
+pagination.pagerSize = 5    # 每页显示的文章数
 
 [minify]
   disableXML = true
@@ -22,8 +22,7 @@ paginate = 5    # 每页显示的文章数
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]
 
-[params]
-  [services]
-    [umami_analytics]
-      id = 'db2b1dc8-515e-4de4-a65e-7b601bad8411'
-      script_url = 'https://umami.binwh.com/script.js'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,7 +1,7 @@
 ---
 title: 产品初探之三：萌娘百科
 slug: meng_niang
-date: 2014-07-24T14:14
+date: 2014-07-24T14:14:00
 author: wenhq
 description: 
 draft: false

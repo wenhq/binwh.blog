@@ -1,7 +1,7 @@
 ---
 title: 列出brew安装的非最新版本软件
 slug: brew_list_outed_software
-date: 2020-11-21T15:06
+date: 2020-11-21T15:06:00
 author: wenhq
 description: 如何知道brew安装过的软件不是最新版本？这样知道之后，就可以根据自己的需要安装最新的版本。
 draft: false

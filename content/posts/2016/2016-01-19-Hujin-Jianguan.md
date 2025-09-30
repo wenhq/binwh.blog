@@ -1,7 +1,7 @@
 ---
 title: 产品初探之八:互联网金融的监管与资质
 slug: hu_jin_jian_guan
-date: 2016-01-19T10:11
+date: 2016-01-19T10:11:00
 author: wenhq
 description: 
 draft: false

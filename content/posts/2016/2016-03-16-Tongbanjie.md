@@ -1,7 +1,7 @@
 ---
 title: 产品初探之十:铜板街用户资金流分析
 slug: tongbanjie
-date: 2016-03-16T18:01
+date: 2016-03-16T18:01:00
 description: 
 author: wenhq
 draft: false
