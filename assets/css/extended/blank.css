@@ -1,3 +1,18 @@
+@font-face {
+  font-family: "Maple Mono";
+  src: url("https://static.binwh.com/fonts/MapleMono-Regular.otf");
+}
+
+@font-face {
+  font-family: "文源圆体 Medium";
+  src: url("https://static.binwh.com/fonts/WenYuanRoundedSC-Medium.otf");
+}
+
+@font-face {
+  font-family: "文源黑体 Light";
+  src: url("https://static.binwh.com/fonts/WenYuanSansSC-Light.otf");
+}
+
 h1,
 h2,
 h3,
@@ -6,13 +21,17 @@ h5,
 h6,
 header{
   font-family: '文源圆体 Medium';
+
+        src: url("https://mdn.github.io/css-examples/web-fonts/VeraSeBd.ttf");
 }
+
 body {
   font-family: '文源黑体 Light';
   font-size: 16;
   line-height: 2;
   margin: 0;
 }
+
 .post-content pre code {
   font-family: 'Maple Mono';
   font-size: 13;
