@@ -1,4 +1,4 @@
-baseURL = 'https://binwh.com'
+baseURL = 'https://www.binwh.com'
 languageCode = 'cn'
 defaultContentLanguage = 'cn' # 默认语言
 defaultContentLanguageInSubdir = false # 默认语言是否放在子目录中，默认路径会增加/cn/
