@@ -49,13 +49,13 @@ Hugo 项目包含包含如下图的目录结构。
 
 ```text
 blog/
-├── archetypes/         # 内容模板
-├── assets/             # 需要 Hugo 处理的资源 (CSS, JS)
+├── archetypes/         # 内容模板，不用管
+├── assets/             # 自定义的 CSS 和 JS
 ├── config/
     ├── hugo.toml       # 核心配置文件
     └── ....toml        # 其他配置文件
-├── content/            # Markdown 内容
-├── layouts/            # 模板布局 (覆盖主题)
+├── content/            # 自己的内容，Markdown 格式
+├── layouts/            # 自定义的模板布局
 ├── static/             # 静态文件 (图片, 字体)
 ├── themes/             # 主题目录
 ```
@@ -115,8 +115,15 @@ blog/
 <script defer src="https://[url]" data-website-id="[id]"></script>
 ```
 
+### 3.3. 中英双语支持
+
+`Hugo` 框架对多语言支持非常方便，博客正文内容通过增加`.en.md`后缀的方式增加英文博客。在配置上增加了 `languages.toml` 来区分不同语音的配置。
+
 ## 4. 参考资料
 
-- [Install / Update PaperMod @ hugo-PaperMod # 2021.01.20](https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/)
-- [Hugo PaperMod 主题搭建与配置完全指南 @ rzlnb.top # 2024.10.03](https://blog.rzlnb.top/posts/blog/hugo-blog-setup) 
+- [Hugo offical website @ gohugo](https://gohugo.io/)
 - [@font-face 语法说明 @ mozilla](https://developer.mozilla.org/zh-CN/docs/Web/CSS/@font-face)
+- [Hugo PaperMod 主题搭建与配置完全指南 @ rzlnb.top # 2024-10-03](https://blog.rzlnb.top/posts/blog/hugo-blog-setup) 
+- [魔改PaperMod主题和博客改动 @ yuk7 # 2024-08-13](https://blog.yuk7.com/posts/papermod)
+- [Hugo+PaperMod 双语博客搭建 @ yunyitang # 2024-01-15](https://www.yunyitang.me/hugo-papermod-blog/)
+- [Install / Update PaperMod @ hugo-PaperMod # 2021-01-20](https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/)
