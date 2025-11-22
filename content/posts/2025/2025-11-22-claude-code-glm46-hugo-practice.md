@@ -1,7 +1,7 @@
 ---
 title: Claude Code与GLM-4.6模型的小实践：修改Hugo博客的内容宽度
 slug: claude-code-glm46-hugo-practice
-date: 2025-11-22T18:44:27+08:00
+date: 2025-11-22T18:24:27+08:00
 author: wenhq
 description: 使用Claude Code配合GLM-4.6大模型，实践修改Hugo博客PaperMod主题页面宽度的完整过程
 draft: false
