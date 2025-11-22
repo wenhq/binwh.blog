@@ -37,3 +37,9 @@ body {
   font-size: 13;
   line-height: 1.5;
 }
+
+:root {
+    --main-width: 1024px; /* 调整为你想要的内容宽度 */
+    --nav-width: 1024px;  /* 调整导航宽度 */
+    --gap: 24px;          /* 调整边距 */
+}
