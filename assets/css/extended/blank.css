@@ -39,7 +39,25 @@ body {
 }
 
 :root {
-    --main-width: 1024px; /* 调整为你想要的内容宽度 */
-    --nav-width: 1024px;  /* 调整导航宽度 */
-    --gap: 24px;          /* 调整边距 */
+    /* 调整主内容区域宽度，提升阅读体验 */
+    --main-width: 1200px;
+    /* 适应更宽的导航栏 */
+    --nav-width: 1200px;
+    /* 适当增加边距，提升视觉效果 */
+    --gap: 28px;
+}
+
+/* 移动设备优化 */
+@media screen and (max-width: 768px) {
+    :root {
+        /* 移动端减小边距，充分利用屏幕空间 */
+        --gap: 16px;
+    }
+}
+
+/* 平板设备优化 */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    :root {
+        --gap: 20px;
+    }
 }
