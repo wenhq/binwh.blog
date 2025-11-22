@@ -1,7 +1,7 @@
 ---
 title: "A Small Practice with Claude Code and GLM-4.6 Model: Modifying Hugo Blog Content Width"
 slug: claude-code-glm46-hugo-practice
-date: 2025-11-22T18:44:27+08:00
+date: 2025-11-22T18:24:27+08:00
 author: wenhq
 description: Complete process of configuring Claude Code with GLM-4.6 model and practicing Hugo blog PaperMod theme page width modification
 draft: false
