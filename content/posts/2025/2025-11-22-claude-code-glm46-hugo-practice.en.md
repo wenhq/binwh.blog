@@ -56,7 +56,7 @@ Combining Claude Code's tool effectiveness with GLM-4.6's intelligent capabiliti
 #### Configuring GLM-4.6 Model
 Create or edit Claude Code configuration file:
 
-**Location**: `~/.claude/config.json`
+**Location**: `~/.claude/settings.json`
 
 ```json
 {
