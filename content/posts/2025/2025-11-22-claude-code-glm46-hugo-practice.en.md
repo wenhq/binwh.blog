@@ -76,7 +76,7 @@ Create or edit Claude Code configuration file:
 
 ### 2. Getting Zhipu API Key
 
-1. Visit [Zhipu AI Open Platform](https://open.bigmodel.cn/)
+1. Visit [Zhipu AI Open Platform](https://www.bigmodel.cn/claude-code?ic=XIUSJ4VJHF)
 2. Register and complete real-name authentication
 3. Create API key in the console
 4. Top up corresponding credits (usually has free credits for testing)
