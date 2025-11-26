@@ -76,7 +76,7 @@ share: true
 
 ### 2. 获取智谱API密钥
 
-1. 访问[智谱AI开放平台](https://open.bigmodel.cn/)
+1. 访问[智谱AI开放平台](https://www.bigmodel.cn/claude-code?ic=XIUSJ4VJHF)
 2. 注册并完成实名认证
 3. 在控制台创建API密钥
 4. 充值相应额度（通常有免费额度供测试）
