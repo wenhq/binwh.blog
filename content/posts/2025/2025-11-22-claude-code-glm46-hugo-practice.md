@@ -56,7 +56,7 @@ share: true
 #### 配置GLM-4.6模型
 创建或编辑Claude Code配置文件：
 
-**位置**: `~/.claude/config.json`
+**位置**: `~/.claude/settings.json`
 
 ```json
 {
