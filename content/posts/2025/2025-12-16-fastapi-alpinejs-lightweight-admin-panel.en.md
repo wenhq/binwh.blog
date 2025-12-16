@@ -1,5 +1,5 @@
 ---
-title: "🚀 Lightweight Development: FastAPI + Alpine.js Combination"
+title: "Lightweight Development: FastAPI + Alpine.js Combination"
 slug: fastapi-alpinejs-lightweight-admin-panel
 date: 2025-12-16T17:47:27+08:00
 author: wenhq
