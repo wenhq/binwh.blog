@@ -1,5 +1,5 @@
 ---
-title: 🚀 轻量开发：FastAPI + Alpine.js 组合
+title: 轻量开发：FastAPI + Alpine.js 组合
 slug: fastapi-alpinejs-lightweight-admin-panel
 date: 2025-12-16T17:47:27+08:00
 author: wenhq
