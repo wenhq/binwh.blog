@@ -7,6 +7,7 @@ description: 轻量开发：FastAPI + Alpine.js 组合
 draft: false
 share: true
 ---
+
 > 在现代Web开发中，选择合适的技术栈对项目成功至关重要。今天我们将探索一个轻量但功能强大的组合：FastAPI + Alpine.js，看看它们如何帮助快速构建现代化的管理面板。
 
 ## ✨ 为什么选择 Alpine.js？
@@ -281,7 +282,7 @@ python main.py
 uvicorn main:app --reload
 ```
 
-访问 [http://localhost:8000](http://localhost:8000%EF%BC%8C%E4%BD%BF%E7%94%A8/) ，使用admin/1234 登录系统。
+访问 [http://localhost:8000](http://localhost:8000) ，使用admin/1234 登录系统。
 
 ## ⚡ Alpine.js 核心特性
 
