@@ -18,7 +18,7 @@ Odd lots refer to scattered shares less than one board lot. Different sectors ha
 | Sector | Buy Rule | Sell Rule | Price Limit |
 |:-------|:---------|:---------|:-----------:|
 | **Shanghai/Shenzhen Main Board** | Must buy in integer multiples of **100 shares** | When holding less than 100 shares, must sell all at once | ±10% |
-| **ChiNext** | Must buy in integer multiples of **100 shares** | When holding less than 100 shares, must sell all at once | ±10% |
+| **ChiNext** | Must buy in integer multiples of **100 shares** | When holding less than 100 shares, must sell all at once | ±20% |
 | **STAR Market** | **Minimum 200 shares**, increment by **1 share**<br>Example: 200, 201, 250 shares, etc. | When holding less than 200 shares, must sell all at once | ±20% |
 | **Beijing Stock Exchange** | **Minimum 100 shares**, increment by **1 share**<br>Example: 100, 110, 155 shares, etc. | When holding less than 100 shares, must sell all at once | ±30% |
 
@@ -77,6 +77,6 @@ Margin accounts, also known as "two-financing accounts," have more granular buy/
 | Minimum Buy Unit | 100 shares integer multiples | 100 shares integer multiples | 200 shares ± 1 share | 100 shares ± 1 share |
 | Limit Order Max | 1 million shares | 300,000 shares | 100,000 shares | 1 million shares |
 | Market Order Max | 1 million shares | 50,000 shares | 50,000 shares | 1 million shares |
-| Price Limit | ±10% | ±10% | ±20% | ±30% |
+| Price Limit | ±10% | ±20% | ±20% | ±30% |
 
 Reference source: [bilibili](https://www.bilibili.com/video/BV1992oBvEJg)
