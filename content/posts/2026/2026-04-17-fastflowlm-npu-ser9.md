@@ -182,7 +182,7 @@ Verbose:
 **结论：**
 
 - **两个方案都远快于纯 CPU 推理**，本文对比的是 GPU 和 NPU 两个加速方案之间的高低。
-- **Prefill：NPU 反超 GPU 约 1.5 倍**（长 prompt 下）。NPU 的 prefill 速度（309.57 tok/s）超过了 GPU（208.43 tok/s），处理较长 prompt 时 NPU 的内存带宽优势发挥了作用。但这个优势依赖 prompt 长度——我用短的中文提示词（如「上海有什么好玩的？」约 28 tokens）单独测试时，NPU prefill 只有 ~90 tok/s，远不如 GPU 的 ~176 tok/s。
+- **Prefill：NPU 反超 GPU 约 1.5 倍**（长 prompt 下）。NPU 的 prefill 速度（309.57 tok/s）超过了 GPU（208.43 tok/s），可能与 NPU 作为专用 AI 加速器的硬件优化或 Vulkan 非原生计算 API 的开销有关，具体原因未做深入验证。但这个优势依赖 prompt 长度——我用短的中文提示词（如「上海有什么好玩的？」约 28 tokens）单独测试时，NPU prefill 只有 ~90 tok/s，远不如 GPU 的 ~176 tok/s。
 - **Decode：GPU 快约 1.3 倍**。GPU（16.06 tok/s）略快于 NPU（11.99 tok/s），但差距不大。12 tok/s 的 decode 速度完全可接受——人眼阅读速度大约 5-8 tok/s。
 - **NPU 和 GPU 各有擅长**：NPU 在处理长 prompt 时 prefill 更快，GPU 在短 prompt 和 decode 生成上更有优势。
 
