@@ -182,7 +182,7 @@ Verbose:
 **Conclusions:**
 
 - **Both solutions are significantly faster than CPU-only inference.** This post compares two acceleration approaches — GPU vs NPU.
-- **Prefill: NPU outperforms GPU by ~1.5x** (with long prompts). The NPU's prefill speed (309.57 tok/s) exceeded the GPU (208.43 tok/s), leveraging its memory bandwidth advantage with longer prompts. However, this advantage depends on prompt length — when I tested with a short prompt (e.g., "What's fun to do in Shanghai?" ~28 tokens), NPU prefill was only ~90 tok/s, far behind the GPU's ~176 tok/s.
+- **Prefill: NPU outperforms GPU by ~1.5x** (with long prompts). The NPU's prefill speed (309.57 tok/s) exceeded the GPU (208.43 tok/s), possibly due to the NPU's hardware optimizations as a dedicated AI accelerator, or overhead from Vulkan being a non-native compute API — the exact cause hasn't been verified. This advantage depends on prompt length, though — when I tested with a short prompt (e.g., "What's fun to do in Shanghai?" ~28 tokens), NPU prefill was only ~90 tok/s, far behind the GPU's ~176 tok/s.
 - **Decode: GPU is ~1.3x faster.** The GPU (16.06 tok/s) is slightly faster than the NPU (11.99 tok/s), but the gap is small. 12 tok/s decode speed is perfectly usable — human reading speed is roughly 5-8 tok/s.
 - **NPU and GPU each have their strengths**: NPU is faster at prefill with long prompts, while GPU has the edge on short prompts and decode generation.
 
