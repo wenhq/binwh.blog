@@ -2,10 +2,10 @@
 title: 产品初探之八:互联网金融的监管与资质
 slug: hu_jin_jian_guan
 date: 2016-01-19T10:11:00
-author: wenhq
+author: binwh
 description: 
-draft: false
-share: true
+draft: true
+share: false
 ---
 
 根据 https://www.baidu.com/link?url=Y2j-1PyMWBrmTbx4A-3JQvP8ye5Q-WpEanTr_zdmDwpq4NPNQulRIRhiXKnMcu523EP4bByc0FwIFzsR9Rg89nvo_zPFC1L_F65qOIVPiT7&wd=&eqid=a832e819001245ae00000004569d9994 整理

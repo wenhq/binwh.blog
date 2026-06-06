@@ -2,7 +2,7 @@
 title: 在 Windows 上用 Vulkan 为 Ollama 开启 AMD GPU 加速
 slug: vulkan-ollama-amd-gpu
 date: 2026-04-12T10:00:00+08:00
-author: wenhq
+author: binwh
 description: 零刻 SER9 + Radeon 890M 核显，ROCm 走不通？一条环境变量切换 Vulkan，让 Ollama 跑满你的 AMD iGPU
 draft: false
 share: true

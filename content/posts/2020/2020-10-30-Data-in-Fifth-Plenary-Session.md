@@ -2,10 +2,10 @@
 title: 五中全会中的数据
 slug: data_in_fifth_plenary_session
 date: 2020-10-30T17:44:00
-author: wenhq
+author: binwh
 description: 2020年10月29日晚，中共官媒新华社公布了刚闭幕的十九届五中全会会议公报，其中一个值得关注的亮点是，首次相对清晰和具体地定义了何为基本实现社会主义现代化。
-draft: false
-share: true
+draft: true
+share: false
 ---
 
 >2020年10月29日晚，中共官媒新华社公布了刚闭幕的十九届五中全会会议公报，其中一个值得关注的亮点是，首次相对清晰和具体地定义了何为基本实现社会主义现代化。基本实现社会主义现代化包括九个方面的指标：

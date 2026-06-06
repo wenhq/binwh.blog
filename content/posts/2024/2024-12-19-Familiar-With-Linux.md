@@ -2,7 +2,7 @@
 title: 怎么才算是“熟悉linux操作系统”
 slug: Familiar-With-Linux
 date: 2024-12-19T10:33:27+08:00
-author: wenhq
+author: binwh
 description: 在知乎上看到一篇问答“‘熟悉linux操作系统’一般是指达到什么程度？”，回答的内容蛮好的。
 draft: false
 share: true

@@ -2,7 +2,7 @@
 title: Fixing Ghostty Terminal Backspace Not Working After SSH Connection
 slug: ghostty-ssh-backspace-fix-en
 date: 2026-03-22T10:00:00+08:00
-author: wenhq
+author: binwh
 description: A troubleshooting guide for fixing Backspace key issues when using Ghostty to SSH into Synology NAS
 draft: false
 share: true

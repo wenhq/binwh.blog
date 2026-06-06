@@ -2,7 +2,7 @@
 title: Create New Email for each SIGN UP using Cloudflare
 slug: Cloudflare-Email
 date: 2024-12-17T22:15:27+08:00
-author: wenhq
+author: binwh
 description: How to manage my email for each sign up using Cloudflare.
 draft: false
 share: true

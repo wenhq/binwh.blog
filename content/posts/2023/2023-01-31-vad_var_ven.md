@@ -2,10 +2,10 @@
 title: 词根 vad、var、ven的单词
 slug: vad_var_ven
 date: 2023-01-31T14:14:00
-author: wenhq
+author: binwh
 description: 
-draft: false
-share: true
+draft: true
+share: false
 ---
 
 用(Z,Y,X,Q,J,K,U) (V,W,N,O,L) (FG,IT,HM,BDE,R) (C,P,S,A) 的顺序，到了V字头词根。先学习vad（vas），var，ven（vent）这三个词根。

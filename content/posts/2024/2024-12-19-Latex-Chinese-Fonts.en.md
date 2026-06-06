@@ -2,7 +2,7 @@
 title: Latex Chinese fonts configuration
 slug: Latex-Chinese-Fonts
 date: 2024-12-19T22:03:27+08:00
-author: wenhq
+author: binwh
 description: How to use Chinese fonts in Latex?
 draft: false
 share: true

@@ -2,7 +2,7 @@
 title: 解决dyld Library not loaded
 slug: dyld_Library_not_loaded
 date: 2020-10-31T17:17:00
-author: wenhq
+author: binwh
 description: 
 draft: false
 share: true

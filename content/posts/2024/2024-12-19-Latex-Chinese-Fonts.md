@@ -2,7 +2,7 @@
 title: Latex 中文字体配置
 slug: Latex-Chinese-Fonts
 date: 2024-12-19T22:03:27+08:00
-author: wenhq
+author: binwh
 description: 在Latex中使用中文，没有一个好字体怎么行？
 draft: false
 share: true

@@ -2,7 +2,7 @@
 title: Ghostty 终端 SSH 连接后 Backspace 失效的解决方案
 slug: ghostty-ssh-backspace-fix
 date: 2026-03-22T10:00:00+08:00
-author: wenhq
+author: binwh
 description: 记录使用 Ghostty 通过 SSH 连接群晖 NAS 后 Backspace 键失效的问题排查与解决方案
 draft: false
 share: true

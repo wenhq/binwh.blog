@@ -2,7 +2,7 @@
 title: 使用 Cloudflare 为每次注册新建一个 Email 地址
 slug: Cloudflare-Email
 date: 2024-12-17T22:15:27+08:00
-author: wenhq
+author: binwh
 description: 我是怎么用Cloudflare管理每个网站的注册邮箱的。
 draft: false
 share: true

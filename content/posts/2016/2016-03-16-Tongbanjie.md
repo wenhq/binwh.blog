@@ -3,9 +3,9 @@ title: 产品初探之十:铜板街用户资金流分析
 slug: tongbanjie
 date: 2016-03-16T18:01:00
 description: 
-author: wenhq
-draft: false
-share: true
+author: binwh
+draft: true
+share: false
 ---
 
 由于工作需要，对铜板街App的用户资金流进行了一定的分析，目的是了解交易结构与资金流。

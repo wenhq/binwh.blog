@@ -2,7 +2,7 @@
 title: Hermes Agent — A Self-Improving AI Assistant
 slug: hermes-agent
 date: 2026-05-05T10:00:00+08:00
-author: wenhq
+author: binwh
 description: Hermes Agent is an open-source, self-improving AI agent by Nous Research. It creates skills from experience, improves them over time, recalls past conversations, and builds a user model across sessions. Install in two minutes, connect via WeChat/Telegram/Discord and 15+ platforms, run on a $20/year VPS.
 draft: false
 share: true

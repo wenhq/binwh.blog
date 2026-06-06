@@ -2,7 +2,7 @@
 title: AI山水画
 date: 2022-05-16T18:28:00
 slug: aishanshui
-author: wenhq
+author: binwh
 description: 
 draft: true
 share: true

@@ -2,7 +2,7 @@
 title: Enabling AMD GPU Acceleration for Ollama on Windows with Vulkan
 slug: vulkan-ollama-amd-gpu
 date: 2026-04-12T10:00:00+08:00
-author: wenhq
+author: binwh
 description: ROCm doesn't work on Windows with AMD APU? One environment variable switches to Vulkan, letting Ollama fully utilize your AMD iGPU
 draft: false
 share: true

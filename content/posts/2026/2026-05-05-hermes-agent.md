@@ -2,7 +2,7 @@
 title: Hermes Agent一个会自我进化的助手
 slug: hermes-agent
 date: 2026-05-05T10:00:00+08:00
-author: wenhq
+author: binwh
 description: Hermes Agent 是 Nous Research 开源的自改进 AI Agent，它能在使用中创建技能、改进技能、跨会话记忆、构建用户模型。两分钟安装，支持微信/飞书/钉钉等 15+ 平台，可运行在 20 美元一年的 VPS 上。这篇文章记录它的核心特性、安装配置和日常使用。
 draft: false
 share: true

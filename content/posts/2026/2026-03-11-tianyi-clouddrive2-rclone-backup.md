@@ -2,7 +2,7 @@
 title: 天翼云盘 + CloudDrive2 + Rclone：打造稳定可靠的照片加密备份方案
 slug: tianyi-clouddrive2-rclone-backup
 date: 2026-03-11T10:00:00+08:00
-author: wenhq
+author: binwh
 description: 利用天翼云盘配合 CloudDrive2 提供 WebDAV 服务，通过 Rclone 实现文件的加密同步与挂载，打造一套稳定可靠的照片备份方案
 draft: false
 share: true

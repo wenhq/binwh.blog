@@ -2,7 +2,7 @@
 title: What does it mean "familiar with Linux"
 slug: Familiar-With-Linux
 date: 2024-12-19T10:33:27+08:00
-author: wenhq
+author: binwh
 description: I saw a Q&A on Zhihu.com titled 'What level does being "familiar with the Linux operating system" generally refer to?' The answer provided was quite good.
 draft: false
 share: true

@@ -2,7 +2,7 @@
 title: "Tianyi CloudDrive + CloudDrive2 + Rclone: A Stable and Reliable Photo Encryption Backup Solution"
 slug: tianyi-clouddrive2-rclone-backup
 date: 2026-03-11T10:00:00+08:00
-author: wenhq
+author: binwh
 description: Leveraging Tianyi CloudDrive's large storage with CloudDrive2 to provide WebDAV service, and using Rclone for incremental sync and encrypted backup
 draft: false
 share: true

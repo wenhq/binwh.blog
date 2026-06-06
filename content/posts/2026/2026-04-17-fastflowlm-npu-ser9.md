@@ -2,7 +2,7 @@
 title: SER9 的 NPU 不该闲着——FastFlowLM 本地推理初探
 slug: fastflowlm-npu-ser9
 date: 2026-04-17T10:00:00+08:00
-author: wenhq
+author: binwh
 description: 零刻 SER9 搭载 AMD XDNA 2 NPU，不跑 NPU 推理就是浪费。FastFlowLM 让 Ryzen AI NPU 跑本地 LLM，这篇文章记录安装、使用，以及和 Ollama GPU 的对比。
 draft: false
 share: true

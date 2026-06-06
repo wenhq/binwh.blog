@@ -2,7 +2,7 @@
 title: Nas上Cloud Sync同步照片的冲突文件清理
 slug: clean_conflict_photo_in_nas
 date: 2020-01-30T16:32:00
-author: wenhq
+author: binwh
 description: " 在NAS里批量删除Conflict的照片- Mac里zsh的find报错问题"
 draft: false
 share: true

@@ -2,7 +2,7 @@
 title: Putting the SER9's NPU to Work — First Steps with FastFlowLM Local Inference
 slug: fastflowlm-npu-ser9
 date: 2026-04-17T10:00:00+08:00
-author: wenhq
+author: binwh
 description: The Beelink SER9 comes with an AMD XDNA 2 NPU sitting idle. FastFlowLM enables local LLM inference on Ryzen AI NPUs. This post documents the setup, usage, and a comparison with Ollama GPU inference.
 draft: false
 share: true

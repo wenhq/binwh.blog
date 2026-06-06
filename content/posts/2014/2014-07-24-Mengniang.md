@@ -2,10 +2,10 @@
 title: 产品初探之三：萌娘百科
 slug: meng_niang
 date: 2014-07-24T14:14:00
-author: wenhq
+author: binwh
 description: 
-draft: false
-share: true
+draft: true
+share: false
 ---
 
 在搜索引擎上查一下“刘看山”是谁，结果把我引到一个百科网站上。这个百科让我看到了我所不了解的另一个世界，这就是“萌娘百科”。百科网站本来是不想写什么的，但是一直想做个垂直领域的小众网站，“萌娘百科”就是个专门卖萌的小众网，可以研究研究。

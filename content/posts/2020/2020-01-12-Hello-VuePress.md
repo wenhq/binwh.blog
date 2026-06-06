@@ -2,7 +2,7 @@
 title: 2020年Blog改用VuePress，配置永久链接的方法
 slug: hello_vuepress
 date: 2020-01-12T21:07:00
-author: wenhq
+author: binwh
 description: 
 draft: false
 share: true
