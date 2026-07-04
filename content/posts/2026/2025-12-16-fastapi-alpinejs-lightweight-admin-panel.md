@@ -281,7 +281,7 @@ python main.py
 uvicorn main:app --reload
 ```
 
-访问 [http://localhost:8000](http://localhost:8000%EF%BC%8C%E4%BD%BF%E7%94%A8/) ，使用admin/1234 登录系统。
+访问 [http://localhost:8000](http://localhost:8000) ，使用admin/1234 登录系统。
 
 ## ⚡ Alpine.js 核心特性
 
