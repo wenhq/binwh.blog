@@ -1,7 +1,7 @@
 ---
 title: 群晖 DS218plus 装 AI Agent：Docker 不好用，不装容器直接跑 OpenCode
 slug: ds218plus-ai-agent-opencode-no-docker
-date: 2026-07-19T14:00:00+08:00
+date: 2026-07-19T13:00:00+08:00
 author: binwh
 description: 群晖 DS218plus 安装 AI Agent 教程。Docker 方案不好用，无法操作 DSM。不用在 Docker 里运行，改用 OpenCode 直接安装。解决 /tmp noexec 报错，环境变量重定向临时目录，opencode 直接执行。老旧 NAS 也能跑 AI 助手。
 draft: false
