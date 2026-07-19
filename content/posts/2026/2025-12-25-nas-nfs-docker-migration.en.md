@@ -2,7 +2,7 @@
 title: "Practical Guide: NAS NFS Mount and Docker Root Directory Migration"
 slug: nas-nfs-docker-migration
 date: 2025-12-25T10:00:00+08:00
-author: wenhq
+author: binwh
 description: A complete guide to extending Ubuntu client storage using Synology NAS NFS shared storage and migrating Docker data directory to NFS mount point
 draft: false
 share: true

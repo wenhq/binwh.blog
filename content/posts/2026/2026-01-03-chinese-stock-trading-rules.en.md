@@ -2,7 +2,7 @@
 title: "Chinese A-Share Trading Rules Quick Reference"
 slug: chinese-stock-trading-rules
 date: 2026-01-03T10:00:00+08:00
-author: wenhq
+author: binwh
 description: "Covering three core rules: odd lot trading, maximum order quantity, and margin accounts"
 draft: false
 share: true

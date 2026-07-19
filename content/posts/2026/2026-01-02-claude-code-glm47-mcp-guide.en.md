@@ -2,7 +2,7 @@
 title: "Complete Guide to Claude Code + GLM-4.7 + MCP Configuration"
 slug: claude-code-glm47-mcp-guide
 date: 2026-01-02T10:00:00+08:00
-author: wenhq
+author: binwh
 description: "Detailed guide on configuring Claude Code with GLM-4.7 model and MCP servers"
 draft: false
 share: true

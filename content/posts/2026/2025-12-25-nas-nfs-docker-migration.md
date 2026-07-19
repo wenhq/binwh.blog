@@ -2,7 +2,7 @@
 title: NAS NFS 挂载与 Docker 根目录迁移实战指南
 slug: nas-nfs-docker-migration
 date: 2025-12-25T10:00:00+08:00
-author: wenhq
+author: binwh
 description: 使用群晖 NAS NFS 共享存储扩展 Ubuntu 客户端空间，并将 Docker 数据目录迁移到 NFS 挂载点的完整实战指南
 draft: false
 share: true

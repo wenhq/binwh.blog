@@ -2,7 +2,7 @@
 title: "中国A股交易规则速查笔记"
 slug: chinese-stock-trading-rules
 date: 2026-01-03T10:00:00+08:00
-author: wenhq
+author: binwh
 description: "涵盖碎股交易、最大委托数量、信用账户三大核心规则"
 draft: false
 share: true

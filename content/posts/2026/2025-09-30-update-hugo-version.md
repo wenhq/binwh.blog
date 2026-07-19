@@ -2,7 +2,7 @@
 title: Hugo版本升级和集成umami功能
 slug: update-hugo-version
 date: 2025-09-30T10:44:27+08:00
-author: wenhq
+author: binwh
 description: Hugo版本升级和集成umami功能
 draft: false
 share: true

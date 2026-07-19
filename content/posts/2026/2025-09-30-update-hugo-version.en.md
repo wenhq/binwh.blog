@@ -2,7 +2,7 @@
 title: Update Hugo Version And  Integrate Umami Analysis
 slug: update-hugo-version
 date: 2025-09-30T10:44:27+08:00
-author: wenhq
+author: binwh
 description: Update Hugo Version And  Integrate Umami Analysis On PaperMod Theme
 draft: false
 share: true
