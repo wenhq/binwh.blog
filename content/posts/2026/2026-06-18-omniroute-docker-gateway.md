@@ -2,7 +2,7 @@
 title: OmniRoute 部署：自建 AI 网关聚合免费模型，统一接入Agent
 slug: omniroute-docker-gateway
 date: 2026-06-18T15:28:43+08:00
-author: wenhq
+author: binwh
 description: OmniRoute 是一个开源 AI 路由网关，支持 160+ 提供商（50+ 免费），一个端点统一接入 Claude Code、Cursor、Cline、Copilot 等工具。本文记录完整的 VPS Docker 部署方案，包括 Docker Compose 配置、Cloudflare Tunnel / SSH 隧道接入、Dashboard 配置 Combo 自动 fallback，以及免费 AI 模型推荐。
 draft: false
 tags:
