@@ -2,7 +2,7 @@
 title: OmniRoute Combo：免费模型够干活，付费额度用在刀刃上
 slug: omniroute-combo-free-model-strategy
 date: 2026-07-04T14:00:00+08:00
-author: wenhq
+author: binwh
 description: 付费模型有额度限制，用来做旅行规划太浪费。OmniRoute（237 家提供商，90+ 免费）的 Combo 组合策略实战：用免费模型（GLM-4.7、Step 3.7 Flash）扛日常，付费额度用在刀刃上。覆盖 OpenWebUI 免费对话、17 种路由策略、4 层 Fallback 和智谱 Coding Plan 优化。
 draft: false
 share: true
