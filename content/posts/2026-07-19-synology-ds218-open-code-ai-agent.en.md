@@ -1,7 +1,7 @@
 ---
 title: "Running AI Agent on Synology DS218+: No Docker, Just OpenCode"
 slug: ds218plus-ai-agent-opencode-no-docker
-date: 2026-07-19T14:00:00+08:00
+date: 2026-07-19T13:00:00+08:00
 author: binwh
 description: "Complete guide to running an AI Agent on Synology DS218+ (DSM 7.1.1). Docker approach doesn't work — containers can't access the DSM system. Skip the container: install OpenCode directly, fix the /tmp noexec issue, and run opencode natively."
 draft: false
