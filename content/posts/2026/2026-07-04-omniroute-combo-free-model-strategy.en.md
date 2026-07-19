@@ -2,7 +2,7 @@
 title: OmniRoute Combo - Free Models Get the Job Done, Paid Quota for When It Matters
 slug: omniroute-combo-free-model-strategy
 date: 2026-07-04T14:00:00+08:00
-author: wenhq
+author: binwh
 description: Paid models have usage limits that get burned on trivial tasks like travel planning. This post covers OmniRoute (237 providers, 90+ free) Combo — how to chain free models into a never-interrupted AI pipeline. Free OpenWebUI chat, uninterrupted Agent coding, and Coding Plan quota saved for what actually matters.
 draft: false
 share: true
