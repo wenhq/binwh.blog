@@ -2,7 +2,7 @@
 title: OmniRoute Self-Host AI Gateway for Free Models
 slug: omniroute-docker-gateway
 date: 2026-06-18T15:28:43+08:00
-author: wenhq
+author: binwh
 description: OmniRoute is an open-source AI routing gateway supporting 160+ providers (50+ free), with a single endpoint for Claude Code, Cursor, Cline, Copilot and more. This tutorial covers the complete VPS Docker deployment, including Docker Compose configuration, Cloudflare Tunnel / SSH tunnel setup, Dashboard Combo auto-fallback configuration, and free AI model recommendations.
 draft: false
 share: true
