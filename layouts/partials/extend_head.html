@@ -1,1 +1,10 @@
 <script defer src="https://umami.binwh.com/script.js" data-website-id="eb1948a4-2884-485e-819f-e12d5d5c4bdd"></script>
+
+<!-- 使用 CDN 加载 Mermaid -->
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<script>
+  window.addEventListener('load', function () {
+    mermaid.initialize({ startOnLoad: false });
+    mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+  });
+</script>
